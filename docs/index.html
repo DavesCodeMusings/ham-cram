@@ -103,7 +103,9 @@
         function parseMetaInfo(metaInfoString) {
             let [questionNumber, answerLetter, reference] = metaInfoString.split(" ");
             answerLetter = answerLetter.replace(/[()]/g, '');
-            reference = reference.replace(/[\[\]]/g, '');
+            if (reference) {
+                reference = reference.replace(/[\[\]]/g, '');
+            }
             console.debug(questionNumber, answerLetter, reference);
             return { questionNumber: questionNumber, answerLetter: answerLetter, reference: reference };
         }
