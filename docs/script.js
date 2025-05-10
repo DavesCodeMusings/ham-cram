@@ -108,7 +108,7 @@ async function showQuestion(questionText) {
     await saySomething(questionText);
 }
 
-function showAnswerChoices(questionNumber, answerArray, correctAnswer) {
+function showAnswerChoices(answerArray, correctAnswer) {
     const parentElement = document.getElementById("answer-choices");
     console.debug("parentElement:", parentElement);
     parentElement.innerHTML = "";
@@ -176,5 +176,5 @@ function parseQuestionBlock(textBlock) {
     // Possible answers are given on the remaining lines.
     let answerChoices = blockLines;
     console.debug("Answer Choices:", answerChoices);
-    showAnswerChoices(metaInfo.questionNumber, answerChoices, metaInfo.answerLetter);
+    showAnswerChoices(answerChoices, metaInfo.answerLetter);
 }
