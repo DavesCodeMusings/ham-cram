@@ -1,4 +1,4 @@
 # ham-cram
 Ham radio exam study guides with text to speech.
 
-Web app is in /docs to appease GitHub pages.
+Use it here on GitHub Pages: https://davescodemusings.github.io/ham-cram/
