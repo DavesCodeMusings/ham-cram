@@ -357,3 +357,91 @@ B. When the transmissions are unmodulated
 C. When the transmitted power level is below 1 watt
 D. When transmitting signals {to control model craft}
 ~~
+
+T1E01 (D) [97.7(a)]
+When may an amateur station {transmit without a control operator}?
+A. When using automatic control, such as in the case of a repeater
+B. When the station licensee is away and another licensed amateur is using the station
+C. When the transmitting station is an auxiliary station
+D. {Never}
+~~
+
+T1E02 (D) [97.301, 97.207(c)]
+Who may be the control operator of a station {communicating through an amateur satellite or space station}?
+A. Only an Amateur Extra Class operator
+B. A General class or higher licensee with a satellite operator certification
+C. Only an Amateur Extra Class operator who is also an AMSAT member
+D. Any amateur {allowed to transmit on the satellite uplink frequency}
+~~
+
+T1E03 (A) [97.103(b)]
+Who must {designate the station control operator?}
+A. The {station licensee}
+B. The FCC
+C. The frequency coordinator
+D. Any licensed operator
+~~
+
+T1E04 (D) [97.103(b)]
+What {determines the transmitting frequency privileges} of an amateur station?
+A. The frequency authorized by the frequency coordinator
+B. The frequencies printed on the license grant
+C. The highest class of operator license held by anyone on the premises
+D. The class of operator {license held by the control operator}
+~~
+
+T1E05 (C) [97.3(a)(14)]
+What is an amateur station’s {control point}?
+A. The location of the station’s transmitting antenna
+B. The location of the station’s transmitting apparatus 
+C. The {location} at which the {control operator function} is performed
+D. The mailing address of the station licensee
+~~
+
+T1E06 (A) [97.301]
+When, under normal circumstances, may a {Technician class} licensee be the control operator of a station {operating in an Amateur Extra Class band} segment?
+A. {At no time}
+B. When designated as the control operator by an Amateur Extra Class licensee
+C. As part of a multi-operator contest team
+D. When using a club station whose trustee holds an Amateur Extra Class license
+~~
+
+T1E07 (D) [97.103(a)]
+When the control operator is not the station licensee, who is {responsible for the proper operation of the station}?
+A. All licensed amateurs who are present at the operation
+B. Only the station licensee
+C. Only the control operator
+D. {The control operator and the station licensee}
+~~
+
+T1E08 (A) [97.3(a)(6), 97.205(d)]
+Which of the following is an {example of automatic control}?
+A. {Repeater} operation
+B. Controlling a station over the internet
+C. Using a computer or other device to send CW automatically
+D. Using a computer or other device to identify automatically
+~~
+
+T1E09 (D) [97.109(c)]
+Which of the following are {required for remote control} operation?
+A. The control operator must be at the control point
+B. A control operator is required at all times
+C. The control operator must indirectly manipulate the controls
+D. {All these} choices are correct
+~~
+
+T1E10 (B) [97.3(a)(39)]
+Which of the following is an example of {remote control as defined in Part 97}?
+A. Repeater operation
+B. {Operating} the station {over the internet}
+C. Controlling a model aircraft, boat, or car by amateur radio
+D. All these choices are correct
+~~
+
+T1E11 (D) [97.103(a)]
+Who does the FCC {presume to be the control operator} of an amateur station, unless documentation to the contrary is in the station records?
+A. The station custodian
+B. The third party participant
+C. The person operating the station equipment
+D. The {station licensee}
+~~
