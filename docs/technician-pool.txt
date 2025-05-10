@@ -269,3 +269,91 @@ B. Yes, as soon as you apply for renewal
 C. Yes, for up to one year
 D. {No}, you must wait until the license has been renewed
 ~~
+
+T1D01 (A) [97.111(a)(1)]
+With which {countries} are FCC-licensed amateur radio stations {prohibited} from exchanging communications?
+A. Any country whose administration has {notified the International Telecommunication Union (ITU) that it objects} to such communications
+B. Any country whose administration has notified the American Radio Relay League (ARRL) that it objects to such communications
+C. Any country banned from such communications by the International Amateur Radio Union (IARU)
+D. Any country banned from making such communications by the American Radio Relay League (ARRL)
+~~
+
+T1D02 (B) [97.113(b), 97.111(b)]
+Under which of the following circumstances are {one-way transmissions} by an amateur station {prohibited}?
+A. In all circumstances
+B. {Broadcasting}
+C. International Morse Code Practice
+D. Telecommand or transmissions of telemetry
+~~
+
+T1D03 (C) [97.211(b), 97.215(b), 97.113(a)(4)]
+When is it permissible to transmit {messages encoded to obscure their meaning}?
+A. Only during contests
+B. Only when transmitting certain approved digital codes
+C. Only when transmitting {control commands to space stations or radio control craft}
+D. Never
+~~
+
+T1D04 (A) [97.113(a)(4), 97.113(c)]
+Under what conditions is an amateur station authorized to {transmit music} using a phone emission?
+A. When incidental to an authorized retransmission of {manned spacecraft communications}
+B. When the music produces no spurious emissions
+C. When transmissions are limited to less than three minutes per hour
+D. When the music is transmitted above 1280 MHz
+~~
+
+T1D05 (D) [97.113(a)(3)(ii)]
+When may amateur radio operators use their stations to notify other amateurs of the {availability of equipment for sale or trade}?
+A. Never
+B. When the equipment is not the personal property of either the station licensee, or the control operator, or their close relatives 
+C. When no profit is made on the sale
+D. When selling amateur radio equipment and {not on a regular basis}
+~~
+
+T1D06 (B) [97.113(a)(4)]
+What, if any, are the restrictions concerning transmission of {language that may be considered indecent or obscene}?
+A. The FCC maintains a list of words that are not permitted to be used on amateur frequencies
+B. Any such language is {prohibited}
+C. The ITU maintains a list of words that are not permitted to be used on amateur frequencies
+D. There is no such prohibition 
+~~
+
+T1D07 (D) [97.113(d)]
+What types of amateur stations can automatically {retransmit the signals of other amateur stations}?
+A. Auxiliary, beacon, or Earth stations
+B. Earth, repeater, or space stations
+C. Beacon, repeater, or space stations
+D. {Repeater, auxiliary, or space stations}
+~~
+
+T1D08 (B) [97.113(a)(3)(iii)]
+In which of the following circumstances may the control operator of an amateur station {receive compensation} for operating that station? 
+A. When the communication is related to the sale of amateur equipment by the control operator's employer
+B. When the communication is incidental to {classroom instruction at an educational institution}
+C. When the communication is made to obtain emergency information for a local broadcast station
+D. All these choices are correct
+~~
+
+T1D09 (A) [97.113(5)(b)]
+When may amateur stations {transmit information in support of broadcasting, program production, or news gathering}, assuming no other means is available?
+A. When such communications are {directly related to the immediate safety of human life or protection of property}
+B. When broadcasting communications to or from the space shuttle
+C. Where noncommercial programming is gathered and supplied exclusively to the National Public Radio network 
+D. Never
+~~
+
+T1D10 (D) [97.3(a)(10)]
+How does the FCC {define broadcasting} for the Amateur Radio Service?
+A. Two-way transmissions by amateur stations
+B. Any transmission made by the licensed station
+C. Transmission of messages directed only to amateur operators
+D. Transmissions {intended for reception by the general public}
+~~
+
+T1D11 (D) [97.119(a)]
+When may an amateur station {transmit without identifying} on the air?
+A. When the transmissions are of a brief nature to make station adjustments
+B. When the transmissions are unmodulated
+C. When the transmitted power level is below 1 watt
+D. When transmitting signals {to control model craft}
+~~
