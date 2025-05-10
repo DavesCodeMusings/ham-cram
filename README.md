@@ -1,5 +1,7 @@
 # ham-cram
-Ham radio exam study guides with text to speech.
+Ham radio exam study guides pairing question pools with text to speech and keyword highlighting.
+
+**Note: The question pool is only partially complete at this time.**
 
 Find it here on GitHub Pages: https://davescodemusings.github.io/ham-cram/
 
