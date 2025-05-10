@@ -394,7 +394,7 @@ T1E05 (C) [97.3(a)(14)]
 What is an amateur station’s {control point}?
 A. The location of the station’s transmitting antenna
 B. The location of the station’s transmitting apparatus 
-C. The {location} at which the {control operator function} is performed
+C. The location at which the {control operator function} is performed
 D. The mailing address of the station licensee
 ~~
 
