@@ -445,3 +445,91 @@ B. The third party participant
 C. The person operating the station equipment
 D. The {station licensee}
 ~~
+
+T1F01 (B) [97.103(c)]
+When must the {station and its records be available for FCC} inspection?
+A. At any time ten days after notification by the FCC of such an inspection
+B. At {any time upon request} by an FCC representative
+C. At any time after written notification by the FCC of such inspection
+D. Only when presented with a valid warrant by an FCC official or government agent
+~~
+
+T1F02 (C) [97.119 (a)]
+{How often must you identify} with your FCC-assigned call sign when using tactical call signs such as “Race Headquarters”? 
+A. Never, the tactical call is sufficient
+B. Once during every hour
+C. At the {end of each communication} and {every ten minutes during} a communication
+D. At the end of every transmission
+~~
+
+T1F03 (D) [97.119(a)]
+When are you {required to transmit} your assigned {call sign}?
+A. At the beginning of each contact, and every 10 minutes thereafter
+B. At least once during each transmission 
+C. At least every 15 minutes during and at the end of a communication
+D. At least {every 10 minutes} during {and at the end} of a communication
+~~
+
+T1F04 (C) [97.119(b)(2)]
+What {language} may you use {for identification} when operating in a {phone} sub-band?
+A. Any language recognized by the United Nations
+B. Any language recognized by the ITU
+C. {English}
+D. English, French, or Spanish
+~~
+
+T1F05 (B) [97.119(b)(2)]
+What method of {call sign identification} is required for a station {transmitting phone} signals?
+A. Send the call sign followed by the indicator RPT
+B. Send the call sign using a {CW or phone} emission
+C. Send the call sign followed by the indicator R
+D. Send the call sign using only a phone emission
+~~
+
+T1F06 (D) [97.119(c)]
+Which of the following {self-assigned indicators} are {acceptable" when using a phone transmission?
+A. KL7CC stroke W3
+B. KL7CC slant W3
+C. KL7CC slash W3
+D. {All these} choices are correct
+~~
+
+T1F07 (B) [97.115(a)(2)]
+Which of the following restrictions apply when a {non-licensed person is allowed to speak to a foreign station} using a station under the control of a licensed amateur operator?
+A. The person must be a U.S. citizen
+B. The foreign station must be in a {country with which the U.S. has a third party agreement}
+C. The licensed control operator must do the station identification
+D. All these choices are correct
+~~
+
+T1F08 (A) [97.3(a)(47)]
+What is the {definition of third party communications}?
+A. A {message} from a control operator to another amateur station control operator {on behalf of another person}
+B. Amateur radio communications where three stations are in communications with one another
+C. Operation when the transmitting equipment is licensed to a person other than the control operator
+D. Temporary authorization for an unlicensed person to transmit on the amateur bands for technical experiments
+~~
+
+T1F09 (C) [97.3(a)(40)]
+What type of amateur station {simultaneously retransmits} the signal of another amateur station {on a different channel} or channels?
+A. Beacon station
+B. Earth station
+C. {Repeater} station
+D. Message forwarding station
+~~
+
+T1F10 (A) [97.205(g)]
+Who is accountable if a {repeater inadvertently retransmits communications that violate the FCC rules}?
+A. The control operator of the {originating station}
+B. The control operator of the repeater
+C. The owner of the repeater
+D. Both the originating station and the repeater owner
+~~
+
+T1F11 (B) [97.5(b)(2)]
+Which of the following is a {requirement for} the issuance of a {club station license} grant?
+A. The trustee must have an Amateur Extra Class operator license grant
+B. The club must have {at least four members}
+C. The club must be registered with the American Radio Relay League
+D. All these choices are correct
+~~
