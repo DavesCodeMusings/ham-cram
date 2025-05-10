@@ -1,0 +1,271 @@
+T1A01 (C) [97.1]
+Which of the following is part of the {Basis and Purpose of the Amateur Radio Service}?
+A. Providing personal radio communications for as many citizens as possible
+B. Providing communications for international non-profit organizations
+C. {Advancing skills} in the technical and communication phases of the radio art
+D. All these choices are correct 
+~~
+
+T1A02 (C) [97.1]
+Which agency {regulates} and enforces the rules for the {Amateur Radio Service in the United States}?
+A. FEMA
+B. Homeland Security
+C. The {FCC}
+D. All these choices are correct
+~~
+
+T1A03 (B) [97.119(b)(2)]
+What do the FCC rules state regarding the use of a {phonetic alphabet for station identification} in the Amateur Radio Service?
+A. It is required when transmitting emergency messages
+B. It is {encouraged}
+C. It is required when in contact with foreign stations
+D. All these choices are correct
+~~
+
+T1A04 (A) [97.5(b)(1)]
+How many operator/primary station {license grants} may be {held by any one person}?
+A. {One}
+B. No more than two
+C. One for each band on which the person plans to operate
+D. One for each permanent station location from which the person plans to operate
+~~
+
+T1A05 (C) [97.7]
+What {proves} that the {FCC has issued} an operator/primary {license} grant?
+A. A printed copy of the certificate of successful completion of examination
+B. An email notification from the NCVEC granting the license
+C. The license appears in the {FCC ULS database}
+D. All these choices are correct
+~~
+
+T1A06 (D) [97.3(a)(9)]
+What is the FCC Part 97 {definition of a beacon}?
+A. A government transmitter marking the amateur radio band edges
+B. A bulletin sent by the FCC to announce a national emergency
+C. A continuous transmission of weather information authorized in the amateur bands by the National Weather Service
+D. An amateur {station transmitting} communications {for the purposes of observing propagation} or related experimental activities
+~~
+
+T1A07 (C) [97.3(a)(41)]
+What is the FCC Part 97 {definition of a space station}?
+A. Any satellite orbiting Earth
+B. A manned satellite orbiting Earth
+C. An amateur station located {more than 50 km above Earth}'s surface
+D. An amateur station using amateur radio satellites for relay of signals
+~~
+
+T1A08 (B) [97.3(a)(22)]
+Which of the following entities {recommends transmit/receive channels} and other parameters for auxiliary and repeater stations?
+A. Frequency Spectrum Manager appointed by the FCC
+B. {Volunteer Frequency Coordinator} recognized by local amateurs
+C. FCC Regional Field Office 
+D. International Telecommunication Union
+~~
+
+T1A09 (C) [97.3(a)(22)]
+Who {selects a Frequency Coordinator}?
+A. The FCC Office of Spectrum Management and Coordination Policy 
+B. The local chapter of the Office of National Council of Independent Frequency Coordinators
+C. {Amateur operators in} a local or {regional area} whose stations are eligible to be repeater or auxiliary stations
+D. FCC Regional Field Office
+~~
+
+T1A10 (D) [97.3(a)(38), 97.407]
+What is the {Radio Amateur Civil Emergency Service (RACES)}?
+A. A radio service using amateur frequencies for emergency management or civil defense communications
+B. A radio service using amateur stations for emergency management or civil defense communications
+C. An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization
+D. {All these choices are correct}
+~~
+
+T1A11 (B) [97.101 (d)]
+When is {willful interference} to other amateur radio stations {permitted}?
+A. To stop another amateur station that is breaking the FCC rules
+B. {At no time} 
+C. When making short test transmissions
+D. At any time, stations in the Amateur Radio Service are not protected from willful interference
+~~
+
+T1B01 (C) [97.301 (e)]
+Which of the following {frequency ranges} are available for {phone operation by Technician} licensees?
+A. 28.050 MHz to 28.150 MHz
+B. 28.100 MHz to 28.300 MHz
+C. {28.300 MHz to 28.500 MHz}
+D. 28.500 MHz to 28.600 MHz
+~~
+
+T1B02 (B) [97.301, 97.207(c)]
+Which amateurs may {contact the International Space Station (ISS) on VHF} bands?
+A. Any amateur holding a General class or higher license
+B. Any amateur holding a {Technician class or higher} license
+C. Any amateur holding a General class or higher license who has applied for and received approval from NASA
+D. Any amateur holding a Technician class or higher license who has applied for and received approval from NASA
+~~
+
+T1B03 (B) [97.301(a)]
+Which {frequency} is {in the 6 meter} amateur {band}?
+A. 49.00 MHz
+B. {52.525 MHz}
+C. 28.50 MHz
+D. 222.15 MHz
+~~
+
+T1B04 (D) [97.301(a)]
+Which amateur {band includes 146.52 MHz}?
+A. 6 meters
+B. 20 meters
+C. 70 centimeters
+D. {2 meters}
+~~
+
+T1B05 (D) [97.305(c)]
+How may amateurs use the {219 to 220 MHz segment of 1.25 meter band}?
+A. Spread spectrum only
+B. Fast-scan television only
+C. Emergency traffic only
+D. {Fixed digital message forwarding systems only}
+~~
+
+T1B06 (B) [97.301(e), 97.305]
+On which {HF bands} does a {Technician} class operator have {phone privileges}?
+A. None
+B. {10 meter} band only
+C. 80 meter, 40 meter, 15 meter, and 10 meter bands
+D. 30 meter band only
+~~
+
+T1B07 (A) [97.305(a), (c)]
+Which of the following {VHF/UHF} band segments are {limited to CW} only?
+A. {50.0 MHz to 50.1 MHz} and {144.0 MHz to 144.1 MHz}
+B. 219 MHz to 220 MHz and 420.0 MHz to 420.1 MHz
+C. 902.0 MHz to 902.1 MHz
+D. All these choices are correct
+~~
+
+T1B08 (A) [97.303]
+How are US amateurs restricted in segments of bands where the {Amateur Radio Service is secondary}?
+A. U.S. amateurs may find non-amateur stations in those segments, and {must avoid interfering} with them
+B. U.S. amateurs must give foreign amateur stations priority in those segments
+C. International communications are not permitted in those segments
+D. Digital transmissions are not permitted in those segments
+~~
+
+T1B09 (D) [97.101(a), 97.301(a-e)]
+Why should you {not} set your {transmit} frequency to be {exactly at the edge of} an amateur {band} or sub-band?
+A. To allow for calibration error in the transmitter frequency display
+B. So that modulation sidebands do not extend beyond the band edge
+C. To allow for transmitter frequency drift
+D. {All these choices are correct}
+~~
+
+T1B10 (C) [97.305(c)]
+Where may {SSB phone} be used in amateur {bands above 50 MHz}?
+A. Only in sub-bands allocated to General class or higher licensees
+B. Only on repeaters
+C. In at least {some segment of all} these bands
+D. On any band if the power is limited to 25 watts
+~~
+
+T1B11 (A) [97.313]
+What is the {maximum peak envelope power output for Technician} class operators in their {HF band} segments?
+A. {200 watts}
+B. 100 watts
+C. 50 watts
+D. 10 watts
+~~
+
+T1B12 (D) [97.313(b)]
+Except for some specific restrictions, what is the {maximum peak envelope power output for Technician} class operators using frequencies {above 30 MHz}?
+A. 50 watts
+B. 100 watts
+C. 500 watts
+D. {1500 watts}
+~~
+
+T1C01 (D) [97.9(a), 97.17(a)]
+For which license classes are new {licenses currently available} from the FCC?
+A. Novice, Technician, General, Amateur Extra
+B. Technician, Technician Plus, General, Amateur Extra
+C. Novice, Technician Plus, General, Advanced
+D. {Technician, General, Amateur Extra}
+~~
+
+T1C02 (D) [97.19]
+{Who may select a} desired call sign under the {vanity call sign} rules?
+A. Only a licensed amateur with a General or Amateur Extra Class license
+B. Only a licensed amateur with an Amateur Extra Class license
+C. Only a licensed amateur who has been licensed continuously for more than 10 years
+D. {Any licensed amateur}
+~~
+
+T1C03 (A) [97.117]
+What types of {international communications} are an FCC-licensed amateur radio station {permitted} to make?
+A. Communications {incidental to the purposes of the Amateur Radio Service and remarks of a personal character}
+B. Communications incidental to conducting business or remarks of a personal nature
+C. Only communications incidental to contest exchanges; all other communications are prohibited
+D. Any communications that would be permitted by an international broadcast station
+~~
+
+T1C04 (B) [97.23]
+What may happen {if the FCC is unable to reach you by email}?
+A. Fine and suspension of operator license
+B. {Revocation} of the station license {or suspension} of the operator license
+C. Revocation of access to the license record in the FCC system
+D. Nothing; there is no such requirement
+~~
+
+T1C05 (A)
+Which of the following is a {valid Technician class call sign} format?
+A. {KF1XXX}
+B. KA1X
+C. W1XX
+D. All these choices are correct
+~~
+
+T1C06 (D) [97.5(a)(2)]
+From which of the following {locations may an FCC-licensed amateur station transmit}?
+A. From within any country that belongs to the International Telecommunication Union
+B. From within any country that is a member of the United Nations 
+C. From anywhere within International Telecommunication Union (ITU) Regions 2 and 3
+D. From {any vessel or craft located in international waters and documented or registered in the United States}
+~~
+
+T1C07 (B) [97.23]
+Which of the following can result in {revocation} of the station license {or suspension of} the operator {license}?
+A. Failure to inform the FCC of any changes in the amateur station following performance of an RF safety environmental evaluation
+B. {Failure to provide and maintain a correct email address with the FCC}
+C. Failure to obtain FCC type acceptance prior to using a home-built transmitter
+D. Failure to have a copy of your license available at your station
+~~
+
+T1C08 (C) [97.25]
+What is the {normal term for} an FCC-issued amateur radio {license}?
+A. Five years
+B. Life
+C. {Ten years}
+D. Eight years
+~~
+
+T1C09 (A) [97.21(a)(b)]
+What is the {grace period for renewal} if an amateur license expires?
+A. {Two years}
+B. Three years
+C. Five years
+D. Ten years 
+~~
+
+T1C10 (C) [97.5a]
+{How soon after passing} the examination for your {first} amateur radio {license may you transmit} on the amateur radio bands? 
+A. Immediately on receiving your Certificate of Successful Completion of Examination (CSCE)
+B. As soon as your operator/station license grant appears on the ARRL website
+C. As soon as your operator/station {license grant appears in the FCC’s license database}
+D. As soon as you receive your license in the mail from the FCC
+~~
+
+T1C11 (D) [97.21(b)]
+If your {license has expired} and is still within the allowable grace period, {may you continue to transmit} on the amateur radio bands?
+A. Yes, for up to two years
+B. Yes, as soon as you apply for renewal
+C. Yes, for up to one year
+D. {No}, you must wait until the license has been renewed
+~~
