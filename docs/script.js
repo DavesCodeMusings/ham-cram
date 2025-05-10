@@ -174,7 +174,7 @@ function parseQuestionBlock(textBlock) {
     showQuestion(questionText);
 
     // Possible answers are given on the remaining lines.
-    answerChoices = blockLines;
+    let answerChoices = blockLines;
     console.debug("Answer Choices:", answerChoices);
     showAnswerChoices(metaInfo.questionNumber, answerChoices, metaInfo.answerLetter);
 }
