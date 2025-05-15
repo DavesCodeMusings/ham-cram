@@ -535,16 +535,16 @@ D. All these choices are correct
 ~~
 
 T6C01 (C)
-What is the name of an electrical wiring diagram that uses standard component symbols?
+What is the name of an [electrical wiring diagram] that uses [standard component symbols]?
 A. Bill of materials
 B. Connector pinout
-C. Schematic
+C. [Schematic]
 D. Flow chart
 ~~
 
 T6C02 (A)
 What is component 1 in figure T-1?
-A. Resistor
+A. [Resistor]
 B. Transistor
 C. Battery
 D. Connector
@@ -553,7 +553,7 @@ D. Connector
 T6C03 (B)
 What is component 2 in figure T-1?
 A. Resistor
-B. Transistor
+B. [Transistor]
 C. Indicator lamp
 D. Connector
 ~~
@@ -562,7 +562,7 @@ T6C04 (C)
 What is component 3 in figure T-1?
 A. Resistor
 B. Transistor
-C. Lamp
+C. [Lamp]
 D. Ground symbol
 ~~
 
@@ -571,13 +571,13 @@ What is component 4 in figure T-1?
 A. Resistor
 B. Transistor
 C. Ground symbol
-D. Battery
+D. [Battery]
 ~~
 
 T6C06 (B)
 What is component 6 in figure T-2?
 A. Resistor
-B. Capacitor
+B. [Capacitor]
 C. Regulator IC
 D. Transistor
 ~~
@@ -587,14 +587,14 @@ What is component 8 in figure T-2?
 A. Resistor
 B. Inductor
 C. Regulator IC
-D. Light emitting diode
+D. [Light emitting diode]
 ~~
 
 T6C08 (C)
 What is component 9 in figure T-2?
 A. Variable capacitor
 B. Variable inductor
-C. Variable resistor
+C. [Variable resistor]
 D. Variable transformer
 ~~
 
@@ -603,7 +603,7 @@ What is component 4 in figure T-2?
 A. Variable inductor
 B. Double-pole switch
 C. Potentiometer
-D. Transformer
+D. [Transformer]
 ~~
 
 T6C10 (D)
@@ -611,21 +611,21 @@ What is component 3 in figure T-3?
 A. Connector
 B. Meter
 C. Variable capacitor
-D. Variable inductor
+D. [Variable inductor]
 ~~
 
 T6C11 (A)
 What is component 4 in figure T-3?
-A. Antenna
+A. [Antenna]
 B. Transmitter
 C. Dummy load
 D. Ground
 ~~
 
 T6C12 (C)
-Which of the following is accurately represented in electrical schematics?
+Which of the following is accurately represented in [electrical schematics]?
 A. Wire lengths
 B. Physical appearance of components
-C. Component connections
+C. [Component connections]
 D. All these choices are correct
 ~~
