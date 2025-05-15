@@ -34,6 +34,10 @@ main {
     background-color: inherit;
 }
 
+#illustration {
+    max-width: 100%;
+}
+
 #answer-choices {
     cursor: pointer;
 }

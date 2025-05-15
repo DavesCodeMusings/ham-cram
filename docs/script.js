@@ -2,7 +2,7 @@ const highlightStart = RegExp("\\{", "g");
 const highlightEnd = RegExp("\\}", "g");
 var doneSpeaking = false;
 var questionPool = [];
-var questionNumber = 0;
+var questionNumber = -1;
 
 async function fetchQuestions() {
     let baseUrl = window.location.href.substring(0, window.location.href.lastIndexOf('/'));
@@ -48,9 +48,9 @@ async function fetchQuestions() {
 }
 
 function nextQuestion() {
-    console.debug("Current question number:", questionNumber);
+    console.debug("Current question index:", questionNumber);
     questionNumber++;
-    console.debug("Next question number:", questionNumber)
+    console.debug("Next question index:", questionNumber)
     if (questionNumber >= questionPool.length) {
         console.debug("Out of range!");
         questionNumber = 0;
@@ -102,9 +102,28 @@ function parseMetaInfo(metaInfoString) {
     return { questionNumber: questionNumber, answerLetter: answerLetter, reference: reference };
 }
 
-async function showQuestion(questionText) {
+function identifyFigureReference(questionText) {
+    const regex = /[Ff]igure [TGE][0-9]?-[0-9]/
+    let figure = "";
+    if (questionText.match(regex)) {
+        figure = questionText.match(regex)[0];
+    }
+    return figure;
+}
+
+async function showQuestion(questionText, figure) {
     questionText = renderHighlights(questionText);
     document.getElementById("question-text").innerHTML = questionText;
+    if (figure) {
+        let figureURI = encodeURI(figure) + ".png";
+        console.debug("Figure URI:", figureURI);
+        document.getElementById("illustration").alt = figure;
+        document.getElementById("illustration").src = figureURI;
+        document.getElementById("illustration").style.display = "block";
+    }
+    else {
+        document.getElementById("illustration").style.display = "none";
+    }
     await saySomething(questionText);
 }
 
@@ -171,7 +190,9 @@ function parseQuestionBlock(textBlock) {
     // The second line contains the question.
     let questionText = blockLines.shift();
     console.debug("Question:", questionText);
-    showQuestion(questionText);
+    let figureURI = identifyFigureReference(questionText);
+    console.debug("Figure:", figureURI);
+    showQuestion(questionText, figureURI);
 
     // Possible answers are given on the remaining lines.
     let answerChoices = blockLines;
