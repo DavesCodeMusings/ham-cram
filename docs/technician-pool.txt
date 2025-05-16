@@ -823,6 +823,102 @@ C. A list of stations that have relayed the message
 D. A box on the message form that indicates that the message was received and/or relayed
 ~~
 
+T3A01 (C)
+Why do {VHF signal strengths} sometimes {vary greatly when the antenna is moved} only a few feet?
+A. The signal path encounters different concentrations of water vapor
+B. VHF ionospheric propagation is very sensitive to path length
+C. {Multipath} propagation cancels or reinforces signals
+D. All these choices are correct
+~~
+
+T3A02 (B)
+What is the effect of {vegetation} on {UHF and microwave} signals?
+A. Knife-edge diffraction
+B. {Absorption}
+C. Amplification
+D. Polarization rotation
+~~
+
+T3A03 (C)
+What {antenna polarization} is normally used for {long-distance CW and SSB} contacts on the {VHF and UHF} bands?
+A. Right-hand circular
+B. Left-hand circular
+C. {Horizontal}
+D. Vertical
+~~
+
+T3A04 (B)
+What happens when {antennas} at opposite ends of a {VHF or UHF line of sight} radio link are {not using the same polarization}?
+A. The modulation sidebands might become inverted
+B. Received {signal strength is reduced}
+C. Signals have an echo effect
+D. Nothing significant will happen
+~~
+
+T3A05 (B)
+When using a {directional antenna}, how might your station be able to communicate with a distant repeater if {buildings or obstructions} are blocking the direct line of sight path?
+A. Change from vertical to horizontal polarization
+B. Try to {find a path that reflects signals} to the repeater
+C. Try the long path
+D. Increase the antenna SWR
+~~
+
+T3A06 (B)
+What is the meaning of the term "{picket fencing}"?
+A. Alternating transmissions during a net operation
+B. {Rapid flutter} on mobile signals {due to multipath} propagation
+C. A type of ground system used with vertical antennas
+D. Local vs long-distance communications
+~~
+
+T3A07 (C)
+What {weather condition} might {decrease range} at {microwave} frequencies?
+A. High winds
+B. Low barometric pressure
+C. {Precipitation}
+D. Colder temperatures
+~~
+
+T3A08 (D)
+What is a likely cause of {irregular fading} of signals propagated by the {ionosphere}?
+A. Frequency shift due to Faraday rotation
+B. Interference from thunderstorms
+C. Intermodulation distortion 
+D. Random combining of {signals arriving via different paths}
+~~
+
+T3A09 (B)
+Which of the following results from the fact that {signals} propagated by the ionosphere are {elliptically polarized}?
+A. Digital modes are unusable
+B. {Either vertically or horizontally polarized antennas} may be used for transmission or reception
+C. FM voice is unusable
+D. Both the transmitting and receiving antennas must be of the same polarization
+~~
+
+T3A10 (D)
+What {effect} does {multi-path} propagation have on {data} transmissions?
+A. Transmission rates must be increased by a factor equal to the number of separate paths observed
+B. Transmission rates must be decreased by a factor equal to the number of separate paths observed
+C. No significant changes will occur if the signals are transmitted using FM
+D. {Error} rates are likely to {increase}
+~~
+
+T3A11 (C)
+Which {region of the atmosphere} can {refract or bend HF and VHF} radio waves?
+A. The stratosphere
+B. The troposphere
+C. The {ionosphere}
+D. The mesosphere
+~~
+
+T3A12 (B)
+What is the effect of {fog and rain} on signals in the {10 meter} and {6 meter} bands?
+A. Absorption
+B. There is {little effect}
+C. Deflection
+D. Range increase
+~~
+
 
 
 T6C01 (C)
