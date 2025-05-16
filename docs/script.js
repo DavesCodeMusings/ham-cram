@@ -98,13 +98,15 @@ function parseMetaInfo(metaInfoString) {
     if (reference) {
         reference = reference.replace(/[\[\]]/g, '');
     }
-    console.debug(questionNumber, answerLetter, reference);
+    console.debug("Question #", questionNumber);
+    console.debug("Correct answer:", answerLetter);
+    console.debug("Reference note:", reference);
     return { questionNumber: questionNumber, answerLetter: answerLetter, reference: reference };
 }
 
 function identifyFigureReference(questionText) {
     const regex = /[Ff]igure [TGE][0-9]?-[0-9]/
-    let figure = "";
+    let figure = undefined;
     if (questionText.match(regex)) {
         figure = questionText.match(regex)[0];
     }
@@ -112,10 +114,13 @@ function identifyFigureReference(questionText) {
 }
 
 async function showQuestion(questionText, figure) {
+    console.debug("Question text:", questionText);
     questionText = renderHighlights(questionText);
+    console.debug("Question marked up as:", questionText);
     document.getElementById("question-text").innerHTML = questionText;
     if (figure) {
         let figureURI = encodeURI(figure) + ".png";
+        console.debug("Figure:", figure);
         console.debug("Figure URI:", figureURI);
         document.getElementById("illustration").alt = figure;
         document.getElementById("illustration").src = figureURI;
@@ -129,13 +134,13 @@ async function showQuestion(questionText, figure) {
 
 function showAnswerChoices(answerArray, correctAnswer) {
     const parentElement = document.getElementById("answer-choices");
-    console.debug("parentElement:", parentElement);
     parentElement.innerHTML = "";
     answerArray.forEach(possibility => {
         let choiceLetter = possibility.charAt(0);
         choiceText = possibility.slice(3);
-        console.debug("Choice", choiceLetter, choiceText);
+        console.debug(`Choice ${choiceLetter}: ${choiceText}`);
         choiceText = renderHighlights(choiceText);
+        console.debug(`Choice ${choiceLetter} marked up as: ${choiceText}`);
         if (choiceLetter == correctAnswer) {
             parentElement.innerHTML += `<li class="correct-answer">${choiceText}</li>`;
         }
@@ -189,13 +194,10 @@ function parseQuestionBlock(textBlock) {
 
     // The second line contains the question.
     let questionText = blockLines.shift();
-    console.debug("Question:", questionText);
     let figureURI = identifyFigureReference(questionText);
-    console.debug("Figure:", figureURI);
     showQuestion(questionText, figureURI);
 
     // Possible answers are given on the remaining lines.
     let answerChoices = blockLines;
-    console.debug("Answer Choices:", answerChoices);
     showAnswerChoices(answerChoices, metaInfo.answerLetter);
 }
