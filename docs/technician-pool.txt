@@ -534,6 +534,297 @@ C. The club must be registered with the American Radio Relay League
 D. All these choices are correct
 ~~
 
+
+T2A01 (B)
+What is a common {repeater} frequency {offset} in the {2 meter} band?
+A. Plus or minus 5 MHz
+B. Plus or minus {600 kHz}
+C. Plus or minus 500 kHz
+D. Plus or minus 1 MHz
+~~
+
+T2A02 (A)
+What is the {national calling frequency} for FM simplex operations in the {2 meter} band?
+A. {146.520 MHz}
+B. 145.000 MHz
+C. 432.100 MHz
+D. 446.000 MHz
+~~
+
+T2A03 (A)
+What is a common {repeater} frequency {offset} in the {70 cm} band?
+A. Plus or minus {5 MHz}
+B. Plus or minus 600 kHz
+C. Plus or minus 500 kHz
+D. Plus or minus 1 MHz
+~~
+
+T2A04 (B)
+What is an appropriate way to {call} another station on a repeater {if you know the} other station's {call sign}?
+A. Say "break, break," then say the station's call sign
+B. Say the {station's call sign, then} identify with {your call sign}
+C. Say "CQ" three times, then the other station's call sign
+D. Wait for the station to call CQ, then answer
+~~
+
+T2A05 (C)
+How should you {respond to} a station calling {CQ}?
+A. Transmit "CQ" followed by the other station’s call sign
+B. Transmit your call sign followed by the other station’s call sign
+C. Transmit the {other station’s call sign followed by your call sign}
+D. Transmit a signal report followed by your call sign
+~~
+
+T2A06 (A)
+Which of the following is {required when making on-the-air test} transmissions?
+A. {Identify} the transmitting station
+B. Conduct tests only between 10 p.m. and 6 a.m. local time
+C. Notify the FCC of the transmissions
+D. All these choices are correct
+~~
+
+T2A07 (A)
+What is meant by "{repeater offset}"?
+A. The {difference between} a repeater’s {transmit and receive frequencies}
+B. The repeater has a time delay to prevent interference
+C. The repeater station identification is done on a separate frequency
+D. The number of simultaneous transmit frequencies used by a repeater
+~~
+
+T2A08 (D)
+What is the {meaning of} the procedural signal "{CQ}"?
+A. Call on the quarter hour
+B. Test transmission, no reply expected
+C. Only the called station should transmit
+D. {Calling any station}
+~~
+
+T2A09 (B)
+Which of the following indicates that a station is {listening on a repeater and looking for a contact}?
+A. “CQ CQ” followed by the repeater’s call sign
+B. The station’s {call sign followed by} the word "{monitoring}"
+C. The repeater call sign followed by the station’s call sign
+D. “QSY” followed by your call sign
+~~
+
+T2A10 (A)
+{What is a band plan}, beyond the privileges established by the FCC?
+A. A {voluntary guideline for using} different modes or activities within an amateur {band}
+B. A list of operating schedules
+C. A list of available net frequencies
+D. A plan devised by a club to indicate frequency band usage
+~~
+
+T2A11 (C)
+What term describes an amateur station that is {transmitting and receiving on the same frequency}?
+A. Full duplex
+B. Diplex
+C. {Simplex}
+D. Multiplex
+~~
+
+T2A12 (D)
+What should you do {before calling CQ}?  
+A. Listen first to be sure that no one else is using the frequency
+B. Ask if the frequency is in use
+C. Make sure you are authorized to use that frequency
+D. {All these} choices are correct
+~~
+
+T2B01 (C)
+How is a VHF/UHF transceiver’s {"reverse" function} used? 
+A. To reduce power output
+B. To increase power output
+C. To {listen on a repeater’s input} frequency
+D. To listen on a repeater’s output frequency
+~~
+
+T2B02 (D)
+What term describes the use of a {sub-audible tone} transmitted along with normal voice audio {to open the squelch} of a receiver?
+A. Carrier squelch
+B. Tone burst
+C. DTMF
+D. {CTCSS}
+~~
+
+T2B03 (A)
+Which of the following describes a {linked repeater network}?
+A. A network of repeaters in which {signals received by one repeater are transmitted by all} the repeaters in the network
+B. A single repeater with more than one receiver
+C. Multiple repeaters with the same control operator
+D. A system of repeaters linked by APRS
+~~
+
+T2B04 (D)
+Which of the following could be the reason you are {unable to access a repeater whose output you can hear}?
+A. Improper transceiver offset
+B. You are using the wrong CTCSS tone
+C. You are using the wrong DCS code
+D. {All these} choices are correct
+~~
+
+T2B05 (C)
+What would cause your {FM} transmission {audio} to be {distorted on voice peaks}?
+A. Your repeater offset is inverted
+B. You need to talk louder
+C. You are {talking too loudly}
+D. Your transmit power is too high
+~~
+
+T2B06 (A)
+What type of {signaling} uses {pairs of audio tones}?
+A. {DTMF}
+B. CTCSS
+C. GPRS
+D. D-STAR
+~~
+
+T2B07 (C)
+How can you {join a digital repeater’s "talkgroup"}?
+A. Register your radio with the local FCC office
+B. Join the repeater owner’s club
+C. {Program your radio with the group’s ID} or code
+D. Sign your call after the courtesy tone
+~~
+
+T2B08 (A)
+Which of the following applies when {two stations} transmitting {on the same frequency interfere} with each other?
+A. The stations should {negotiate continued use of the frequency}
+B. Both stations should choose another frequency to avoid conflict
+C. Interference is inevitable, so no action is required
+D. Use subaudible tones so both stations can share the frequency
+~~
+
+T2B09 (A)
+{Why are simplex channels designated} in the VHF/UHF band plans?
+A. So stations within range of each other can {communicate without tying up a repeater}
+B. For contest operation
+C. For working DX only
+D. So stations with simple transmitters can access the repeater without automated offset
+~~
+
+T2B10 (A)
+Which {Q signal} indicates that you are {receiving interference} from other stations?
+A. {QRM}
+B. QRN
+C. QTH
+D. QSB
+~~
+
+T2B11 (B)
+Which {Q signal} indicates that you are {changing frequency}?
+A. QRU
+B. {QSY}
+C. QSL
+D. QRZ
+~~
+
+T2B12 (A)
+What is the purpose of the {color code used on DMR repeater} systems?
+A. {Must match the repeater} color code for access
+B. Defines the frequency pair to use
+C. Identifies the codec used
+D. Defines the minimum signal level required for access
+~~
+
+T2B13 (B)
+What is the purpose of a {squelch function}?
+A. Reduce a CW transmitter's key clicks
+B. {Mute} the receiver audio {when a signal is not present}
+C. Eliminate parasitic oscillations in an RF amplifier
+D. Reduce interference from impulse noise
+~~
+
+T2C01 (D) [97.103(a)]
+When do {FCC rules NOT apply} to the operation of an amateur station?
+A. When operating a RACES station
+B. When operating under special FEMA rules
+C. When operating under special ARES rules
+D. FCC rules {always apply}
+~~
+
+T2C02 (C) 
+Which of the following are typical {duties of a Net Control Station}?
+A. Choose the regular net meeting time and frequency
+B. Ensure that all stations checking into the net are properly licensed for operation on the net frequency
+C. {Call} the net {to order and direct communications} between stations checking in
+D. All these choices are correct
+~~
+
+T2C03 (C)
+What technique is used to {ensure} that voice {messages} containing unusual words are {received correctly}?
+A. Send the words by voice and Morse code
+B. Speak very loudly into the microphone
+C. Spell the words using a standard {phonetic alphabet}
+D. All these choices are correct
+~~
+
+T2C04 (D)
+What is {RACES}?
+A. An emergency organization combining amateur radio and citizens band operators and frequencies
+B. An international radio experimentation society
+C. A radio contest held in a short period, sometimes called a “sprint”
+D. An FCC {part 97} amateur radio service for {civil defense communications} during national emergencies
+~~
+
+T2C05 (A)
+What does the term "{traffic}" refer to {in net operation}?
+A. {Messages exchanged} by net stations
+B. The number of stations checking in and out of a net
+C. Operation by mobile or portable stations
+D. Requests to activate the net by a served agency
+~~
+
+T2C06 (A)
+What is the Amateur Radio Emergency Service ({ARES})?
+A. A group of {licensed amateurs} who have voluntarily registered their qualifications and equipment for {communications duty in the public service}
+B. A group of licensed amateurs who are members of the military and who voluntarily agreed to provide message handling services in the case of an emergency
+C. A training program that provides licensing courses for those interested in obtaining an amateur license to use during emergencies
+D. A training program that certifies amateur operators for membership in the Radio Amateur Civil Emergency Service
+~~
+
+T2C07 (C)
+Which of the following is standard practice when you {participate in a net}?
+A. When first responding to the net control station, transmit your call sign, name, and address as in the FCC database
+B. Record the time of each of your transmissions
+C. Unless you are reporting an emergency, {transmit only when directed} by the net control station
+D. All these choices are correct 
+~~
+
+T2C08 (A)
+Which of the following is a characteristic of {good traffic handling}? 
+A. {Passing messages exactly as received}
+B. Making decisions as to whether messages are worthy of relay or delivery
+C. Ensuring that any newsworthy messages are relayed to the news media
+D. All these choices are correct
+~~
+
+T2C09 (D)
+Are amateur station control operators ever {permitted to operate outside} the frequency privileges of their {license class}?
+A. No
+B. Yes, but only when part of a FEMA emergency plan
+C. Yes, but only when part of a RACES emergency plan
+D. Yes, but only in situations involving the {immediate safety of human life or protection of property}
+~~
+
+T2C10 (D)
+What information is contained in the {preamble} of a formal {traffic message}?
+A. The email address of the originating station
+B. The address of the intended recipient
+C. The telephone number of the addressee
+D. {Information needed to track} the message 
+~~
+
+T2C11 (A)
+What is meant by {"check" in a radiogram header}?
+A. The {number of words} or word equivalents in the text portion of the message
+B. The call sign of the originating station
+C. A list of stations that have relayed the message
+D. A box on the message form that indicates that the message was received and/or relayed
+~~
+
+
+
 T6C01 (C)
 What is the name of an {electrical wiring diagram} that uses {standard component symbols}?
 A. Bill of materials
