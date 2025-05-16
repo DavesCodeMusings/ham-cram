@@ -3,7 +3,7 @@ Ham radio exam study guides pairing question pools with text to speech and keywo
 
 **Note: The question pool is only partially complete at this time.**
 
-Find it here on GitHub Pages: https://davescodemusings.github.io/ham-cram/
+Find a working demo here on GitHub Pages: https://davescodemusings.github.io/ham-cram/
 
 ## Brief Instructions for User Interface
 * To answer, click the selection (or press the letter on your keyboard.)
