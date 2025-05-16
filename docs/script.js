@@ -19,9 +19,17 @@ async function fetchQuestions() {
     }
     let fileContents = await filePromise.text();
     let fileLines = fileContents.split(/\r?\n/);
+
+    // Clean up extra whitespace, blank lines, and heading lines.
     fileLines = fileLines.map(line => line.trim());
     fileLines = fileLines.filter(line => {
         return line.length > 0;
+    });
+    fileLines = fileLines.filter(line => {
+        return !line.match(/^SUBELEMENT [TGE][0-9] /);
+    });
+    fileLines = fileLines.filter(line => {
+        return !line.match(/^[TGE][0-9][A-Z] /);
     });
     console.debug("File lines:", fileLines);
 
