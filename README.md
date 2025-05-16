@@ -16,10 +16,10 @@ Find it here on GitHub Pages: https://davescodemusings.github.io/ham-cram/
 Use this test cram tool together with the [ARRL License Manual](https://home.arrl.org/action/Store/ARRL-Ham-Radio-License-Manual-5th-Edition/ProductDetail/2003373064) and practice tests from [ARRL](https://arrlexamreview.appspot.com/) or [hamstudy.org](https://hamstudy.org).
 
 ## How It Works
-In a nutshell, it's an HTML / Javascript / CSS single page web app that parses a text file of questions and answers in the VEC question pool format to present a single question and answer choices along with any relevant figures as graphics. The question is read aloud using Javascript speech synthesis in whatever voice is configured as the browser default.
+In a nutshell, it's an HTML / Javascript / CSS single page web app that parses a text file of questions and answers in the VEC question pool format. It then presents a single question and answer choices along with any relevant figures as graphics. The question is read aloud using Javascript speech synthesis in whatever voice is configured as the browser default. The next question can be sequential or random.
 
 * Button click (highlight marker) or keypress (H) triggers reveal of highlighted passages.
 * Button click (magnifying glass) or keypress (A, B, C, or D) triggers bolding of correct answer and strikethrough of incorrect choices. The answer is read using voice synthesis.
-* No scoring is kept.
+* No scoring is kept. Previously viewed questions are not tracked during random selection, except for an immediate repeat of the same question.
 * Question pool defaults to _technician-pool.txt_ but can be changed using an HTML query parameter in the URL (e.g. the bit after the question mark in http://localhost:8000/?general-pool.txt)
 * File names for figures must match the figure referenced in VEC question pool questions and be in PNG format. For example: _What is component 1 in figure T-1?_ would result in using _figure%20T-1.png_ as the image.
