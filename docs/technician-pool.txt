@@ -2161,88 +2161,88 @@ SUBELEMENT T7 – PRACTICAL CIRCUITS – [4 Exam Questions - 4 Groups]
 T7A – Station equipment: receivers, transceivers, transmitter amplifiers, receive amplifiers, transverters; Basic radio circuit concepts and terminology: sensitivity, selectivity, mixers, oscillators, PTT, modulation 
 
 T7A01 (B)
-Which term describes the ability of a receiver to detect the presence of a signal?
+Which term describes the ability of a receiver to {detect the presence of a signal}?
 A. Linearity
-B. Sensitivity
+B. {Sensitivity}
 C. Selectivity
 D. Total Harmonic Distortion
 ~~
 
 T7A02 (A)
-What is a transceiver?
-A. A device that combines a receiver and transmitter
+What is a {transceiver}?
+A. A device that {combines a receiver and transmitter}
 B. A device for matching feed line impedance to 50 ohms
 C. A device for automatically sending and decoding Morse code
 D. A device for converting receiver and transmitter frequencies to another band
 ~~
 
 T7A03 (B)
-Which of the following is used to convert a signal from one frequency to another?
+Which of the following is used to {convert a signal from one frequency to another}?
 A. Phase splitter
-B. Mixer
+B. {Mixer}
 C. Inverter
 D. Amplifier
 ~~
 
 T7A04 (C)
-Which term describes the ability of a receiver to discriminate between multiple signals?
+Which term describes the ability of a receiver to {discriminate between multiple signals}?
 A. Discrimination ratio
 B. Sensitivity
-C. Selectivity
+C. {Selectivity}
 D. Harmonic distortion
 ~~
 
 T7A05 (D)
-What is the name of a circuit that generates a signal at a specific frequency?
+What is the name of a circuit that {generates a signal at a specific frequency}?
 A. Reactance modulator
 B. Phase modulator
 C. Low-pass filter
-D. Oscillator
+D. {Oscillator}
 ~~
 
 T7A06 (C)
-What device converts the RF input and output of a transceiver to another band?
+What device {converts} the RF input and output of a transceiver {to another band}?
 A. High-pass filter
 B. Low-pass filter
-C. Transverter
+C. {Transverter}
 D. Phase converter
 ~~
 
 T7A07 (B)
-What is the function of a transceiver’s PTT input?
+What is the function of a transceiver’s {PTT input}?
 A. Input for a key used to send CW
-B. Switches transceiver from receive to transmit when grounded
+B. {Switches} transceiver {from receive to transmit} when grounded
 C. Provides a transmit tuning tone when grounded
 D. Input for a preamplifier tuning tone
 ~~
 
 T7A08 (C)
-Which of the following describes combining speech with an RF carrier signal?
+Which of the following describes {combining speech with an RF carrier} signal?
 A. Impedance matching
 B. Oscillation
-C. Modulation
+C. {Modulation}
 D. Low-pass filtering
 ~~
 
 T7A09 (B)
-What is the function of the SSB/CW-FM switch on a VHF power amplifier?
+What is the function of the {SSB/CW-FM switch} on a VHF {power amplifier}?
 A. Change the mode of the transmitted signal
-B. Set the amplifier for proper operation in the selected mode
+B. Set the amplifier for {proper operation in the selected mode}
 C. Change the frequency range of the amplifier to operate in the proper segment of the band
 D. Reduce the received signal noise 
 ~~
 
 T7A10 (B)
-What device increases the transmitted output power from a transceiver?
+What device {increases the transmitted output power} from a transceiver?
 A. A voltage divider
-B. An RF power amplifier
+B. An {RF power amplifier}
 C. An impedance network
 D. All these choices are correct
 ~~
 
 T7A11 (A)
-Where is an RF preamplifier installed?
-A. Between the antenna and receiver
+{Where} is an {RF preamplifier} installed?
+A. {Between} the {antenna and receiver}
 B. At the output of the transmitter power amplifier
 C. Between the transmitter and the antenna tuner
 D. At the output of the receiver audio amplifier
