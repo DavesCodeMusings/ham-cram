@@ -2068,88 +2068,88 @@ D. All these choices are correct
 T6D - Component functions: rectifiers, relays, voltage regulators, meters, indicators, integrated circuits, transformers; Resonant circuit; Shielding 
 
 T6D01 (B)
-Which of the following devices or circuits changes an alternating current into a varying direct current signal?
+Which of the following devices or circuits changes an {alternating curren into} a varying {direct current} signal?
 A. Transformer
-B. Rectifier
+B. {Rectifier}
 C. Amplifier
 D. Reflector
 ~~
 
 T6D02 (A)
-What is a relay?
-A. An electrically-controlled switch
+What is a {relay}?
+A. An {electrically-controlled switch}
 B. A current controlled amplifier
 C. An inverting amplifier
 D. A pass transistor
 ~~
 
 T6D03 (C)
-Which of the following is a reason to use shielded wire?
+Which of the following is a {reason to use shielded wire}?
 A. To decrease the resistance of DC power connections
 B. To increase the current carrying capability of the wire
-C. To prevent coupling of unwanted signals to or from the wire
+C. To {prevent} coupling of {unwanted signals} to or from the wire
 D. To couple the wire to other signals
 ~~
 
 T6D04 (C)
-Which of the following displays an electrical quantity as a numeric value?
+Which of the following {displays an electrical quantity as a numeric value}?
 A. Potentiometer
 B. Transistor
-C. Meter
+C. {Meter}
 D. Relay
 ~~
 
 T6D05 (A)
-What type of circuit controls the amount of voltage from a power supply?
-A. Regulator
+What type of circuit {controls the amount of voltage from a power supply}?
+A. {Regulator}
 B. Oscillator
 C. Filter
 D. Phase inverter
 ~~
 
 T6D06 (B)
-What component changes 120 V AC power to a lower AC voltage for other uses?
+What component {changes 120 V AC power to a lower AC voltage} for other uses?
 A. Variable capacitor
-B. Transformer
+B. {Transformer}
 C. Transistor
 D. Diode
 ~~
 
 T6D07 (A)
-Which of the following is commonly used as a visual indicator?
-A. LED
+Which of the following is commonly {used as a visual indicator}?
+A. {LED}
 B. FET
 C. Zener diode
 D. Bipolar transistor
 ~~
 
 T6D08 (D)
-Which of the following is combined with an inductor to make a resonant circuit?
+Which of the following is {combined with an inductor} to make a {resonant} circuit?
 A. Resistor
 B. Zener diode
 C. Potentiometer
-D. Capacitor
+D. {Capacitor}
 ~~
 
 T6D09 (C)
-What is the name of a device that combines several semiconductors and other components into one package?
+What is the name of a device that {combines several semiconductors} and other components {into one package}?
 A. Transducer
 B. Multi-pole relay
-C. Integrated circuit
+C. {Integrated circuit}
 D. Transformer
 ~~
 
 T6D10 (C)
-What is the function of component 2 in figure T-1?
+What is the function of {component 2} in figure T-1?
 A. Give off light when current flows through it
 B. Supply electrical energy
-C. Control the flow of current
+C. {Control the flow of current}
 D. Convert electrical energy into radio waves
 ~~
 
 T6D11 (A)
-Which of the following is a resonant or tuned circuit?
-A. An inductor and a capacitor in series or parallel
+Which of the following is a {resonant or tuned circuit}?
+A. An {inductor and a capacitor} in series or parallel
 B. A linear voltage regulator
 C. A resistor circuit used for reducing standing wave ratio
 D. A circuit designed to provide high-fidelity audio
