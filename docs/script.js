@@ -105,11 +105,13 @@ function parseMetaInfo(metaInfoString) {
 }
 
 function identifyPart97(reference) {
-    const regex = /97\.[0-9]+/;
     let part97Sections = undefined;
-    if (reference.match(regex)) {
-        part97Sections = reference.match(regex);
-        console.debug("References:", part97Sections);
+    if (reference) {
+        const regex = /97\.[0-9]+/;
+        if (reference.match(regex)) {
+            part97Sections = reference.match(regex);
+            console.debug("References:", part97Sections);
+        }
     }
     return part97Sections;
 }
@@ -162,13 +164,15 @@ function showAnswerChoices(answerChoices, correctAnswer) {
 
 function showReferences(references) {
     const referencesElement = document.getElementById("references");
-    referencesElement.style.visibility = "hidden";
-    referencesElement.innerHTML = "";
-    references.forEach(ref => {
-        let url = "https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-97/subpart-A/section-" + ref;
-        console.debug("Answer reference:", URL);
-        referencesElement.innerHTML += `<a href="${url}" target="_blank">${ref}</a> `;
-    });
+    referencesElement.innerHTML = "&nbsp;";
+    if (references) {
+        referencesElement.style.visibility = "hidden";
+        references.forEach(ref => {
+            let url = "https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-97/subpart-A/section-" + ref;
+            console.debug("Answer reference:", URL);
+            referencesElement.innerHTML += `<a href="${url}" target="_blank">${ref}</a> `;
+        });
+    }
 }
 
 function revealHighlights(...parentIds) {
