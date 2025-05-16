@@ -1237,6 +1237,105 @@ D. An interlock to prevent unauthorized use of a radio
 ~~
 
 
+T4B - Operating controls: frequency tuning, use of filters, squelch function, AGC, memory channels, noise blanker, microphone gain, receiver incremental tuning (RIT), bandwidth selection, digital transceiver configuration 
+
+T4B01 (B)
+What is the effect of {excessive microphone gain} on {SSB} transmissions?
+A. Frequency instability
+B. {Distorted} transmitted {audio}
+C. Increased SWR
+D. All these choices are correct
+~~
+
+T4B02 (A)
+Which of the following can be used to {enter} a transceiver’s {operating frequency}?
+A. The {keypad or VFO knob}
+B. The CTCSS or DTMF encoder
+C. The Automatic Frequency Control
+D. All these choices are correct
+~~
+
+T4B03 (A)
+How is {squelch} adjusted so that a {weak} FM {signal} can be heard?
+A. {Set} the squelch threshold {so that receiver output audio is on all the time}
+B. Turn up the audio level until it overcomes the squelch threshold
+C. Turn on the anti-squelch function
+D. Enable squelch enhancement
+~~
+
+T4B04 (B)
+What is a way to enable {quick access to a favorite frequency} or channel on your transceiver?
+A. Enable the frequency offset
+B. Store it in a {memory} channel
+C. Enable the VOX
+D. Use the scan mode to select the desired frequency
+~~
+
+T4B05 (C)
+What does the {scanning function} of an FM transceiver do?
+A. Checks incoming signal deviation
+B. Prevents interference to nearby repeaters
+C. Tunes through {a range of frequencies} to check for activity
+D. Checks for messages left on a digital bulletin board
+~~
+
+T4B06 (D)
+Which of the following controls could be used if the {voice pitch} of a {single-sideband} signal returning to your CQ call {seems too high or low}?
+A. The AGC or limiter
+B. The bandwidth selection
+C. The tone squelch
+D. The {RIT or Clarifier}
+~~
+
+T4B07 (B)
+What does a {DMR “code plug”} contain?
+A. Your call sign in CW for automatic identification
+B. {Access information} for repeaters and talkgroups
+C. The codec for digitizing audio
+D. The DMR software version
+~~
+
+T4B08 (B)
+What is the {advantage of having multiple receive bandwidth choices} on a multimode transceiver?
+A. Permits monitoring several modes at once by selecting a separate filter for each mode
+B. Permits {noise or interference reduction} by selecting a bandwidth matching the mode
+C. Increases the number of frequencies that can be stored in memory
+D. Increases the amount of offset between receive and transmit frequencies
+~~
+
+T4B09 (C)
+How is a specific group of {stations selected on a digital voice transceiver}?
+A. By retrieving the frequencies from transceiver memory
+B. By enabling the group’s CTCSS tone
+C. By entering the {group’s identification code}
+D. By activating automatic identification
+~~
+
+T4B10 (C)
+Which of the following receiver filter {bandwidths provides the best signal-to-noise ratio for SSB} reception?
+A. 500 Hz
+B. 1000 Hz
+C. {2400 Hz}
+D. 5000 Hz
+~~
+
+T4B11 (A)
+Which of the following must be {programmed} into a {D-STAR} digital transceiver {before transmitting}?
+A. Your call sign
+B. Your output power
+C. The codec type being used
+D. All these choices are correct
+~~
+
+T4B12 (D)
+What is the result of tuning an {FM} receiver {above or below a signal’s frequency}?
+A. Change in audio pitch
+B. Sideband inversion
+C. Generation of a heterodyne tone
+D. {Distortion} of the signal’s audio
+~~
+
+
 T6C - Circuit diagrams: use of schematics, basic structure; Schematic symbols of basic components 
 
 T6C01 (C)
