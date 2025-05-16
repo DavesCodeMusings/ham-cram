@@ -149,6 +149,7 @@ async function showQuestion(questionText, figure) {
     else {
         document.getElementById("illustration").style.display = "none";
     }
+    window.speechSynthesis.cancel();  // Helps when rapidly pressing Next or Random
     await saySomething(questionText);
 }
 
