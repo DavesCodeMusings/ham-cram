@@ -19,7 +19,7 @@ Use this test cram tool together with the [ARRL License Manual](https://home.arr
 There are many study aids out there. This is only one of them. Though I do believe it's the only one that reads aloud. It can be used to cram before taking an exam. It could also be used as a teaching tool: posing the questions, giving time for discussion, and then triggering an answer reveal. Highlighting can be used to reinforce key concepts and further discussion.
 
 ## How It Works (for the Curious)
-In a nutshell, it's an HTML / Javascript / CSS single page web app that parses a text file of questions and answers in the VEC question pool format. It then presents a single question and answer choices along with any relevant figures as graphics. The question is read aloud using Javascript speech synthesis in whatever voice is configured as the browser default. The next question can be sequential or random.
+In a nutshell, it's an HTML / Javascript / CSS single page web app that parses a text file of questions and answers in the [VEC question pool](https://www.ncvec.org/index.php/amateur-question-pools) format with minimal modifications needed. It then presents a single question and answer choices along with any relevant figures as graphics. The question is read aloud using Javascript speech synthesis in whatever voice is configured as the browser default. The next question can be sequential or random.
 
 * Button click (highlight marker) or keypress (H) triggers reveal of highlighted passages.
 * Button click (magnifying glass) or keypress (A, B, C, or D) triggers bolding of correct answer and strikethrough of incorrect choices. The answer is read using voice synthesis.
