@@ -1,3 +1,7 @@
+SUBELEMENT T1 – COMMISSION’S RULES - [6 Exam Questions - 6 Groups] 
+
+T1A - Purpose and permissible use of the Amateur Radio Service; Operator/primary station license grant; Meanings of basic terms used in FCC rules; Interference; RACES rules; Phonetics; Frequency Coordinator 
+
 T1A01 (C) [97.1]
 Which of the following is part of the {Basis and Purpose of the Amateur Radio Service}?
 A. Providing personal radio communications for as many citizens as possible
@@ -85,6 +89,9 @@ B. {At no time}
 C. When making short test transmissions
 D. At any time, stations in the Amateur Radio Service are not protected from willful interference
 ~~
+
+
+T1B - Frequency allocations; Emission modes; Spectrum sharing; Transmissions near band edges; Contacting the International Space Station; Power output 
 
 T1B01 (C) [97.301 (e)]
 Which of the following {frequency ranges} are available for {phone operation by Technician} licensees?
@@ -182,6 +189,9 @@ C. 500 watts
 D. {1500 watts}
 ~~
 
+
+T1C - Licensing: classes, sequential and vanity call sign systems, places where the Amateur Radio Service is regulated by the FCC, name and address on FCC license database, term, renewal, grace period, maintaining mailing address; International communications 
+
 T1C01 (D) [97.9(a), 97.17(a)]
 For which license classes are new {licenses currently available} from the FCC?
 A. Novice, Technician, General, Amateur Extra
@@ -269,6 +279,9 @@ B. Yes, as soon as you apply for renewal
 C. Yes, for up to one year
 D. {No}, you must wait until the license has been renewed
 ~~
+
+
+T1D - Authorized and prohibited transmissions: communications with other countries, music, exchange of information with other services, indecent language, compensation for operating, retransmission of other amateur signals, encryption, sale of equipment, unidentified transmissions, one-way transmission
 
 T1D01 (A) [97.111(a)(1)]
 With which {countries} are FCC-licensed amateur radio stations {prohibited} from exchanging communications?
@@ -358,6 +371,9 @@ C. When the transmitted power level is below 1 watt
 D. When transmitting signals {to control model craft}
 ~~
 
+
+T1E - Control operator: eligibility, designating, privileges, duties, location, required; Control point; Control types: automatic, remote 
+
 T1E01 (D) [97.7(a)]
 When may an amateur station {transmit without a control operator}?
 A. When using automatic control, such as in the case of a repeater
@@ -445,6 +461,9 @@ B. The third party participant
 C. The person operating the station equipment
 D. The {station licensee}
 ~~
+
+
+T1F - Station identification; Repeaters; Third party communications; Club stations; FCC inspection 
 
 T1F01 (B) [97.103(c)]
 When must the {station and its records be available for FCC} inspection?
@@ -534,6 +553,10 @@ C. The club must be registered with the American Radio Relay League
 D. All these choices are correct
 ~~
 
+
+SUBELEMENT T2 - OPERATING PROCEDURES - [3 Exam Questions - 3 Groups]
+
+T2A - Station operation: choosing an operating frequency, calling another station, test transmissions; Band plans: calling frequencies, repeater offsets
 
 T2A01 (B)
 What is a common {repeater} frequency {offset} in the {2 meter} band?
@@ -630,6 +653,9 @@ B. Ask if the frequency is in use
 C. Make sure you are authorized to use that frequency
 D. {All these} choices are correct
 ~~
+
+
+T2B – VHF/UHF operating practices: FM repeater, simplex, reverse splits; Access tones: CTCSS, DTMF; DMR operation; Resolving operational problems; Q signals
 
 T2B01 (C)
 How is a VHF/UHF transceiver’s {"reverse" function} used? 
@@ -735,6 +761,9 @@ C. Eliminate parasitic oscillations in an RF amplifier
 D. Reduce interference from impulse noise
 ~~
 
+
+T2C – Public service: emergency operations, applicability of FCC rules, RACES and ARES, net and traffic procedures, operating restrictions during emergencies, use of phonetics in message handling
+
 T2C01 (D) [97.103(a)]
 When do {FCC rules NOT apply} to the operation of an amateur station?
 A. When operating a RACES station
@@ -822,6 +851,11 @@ B. The call sign of the originating station
 C. A list of stations that have relayed the message
 D. A box on the message form that indicates that the message was received and/or relayed
 ~~
+
+
+SUBELEMENT T3 – RADIO WAVE PROPAGATION – [3 Exam Questions - 3 Groups] 
+
+T3A - Radio wave characteristics: how a radio signal travels, fading, multipath, polarization, wavelength vs absorption; Antenna orientation
 
 T3A01 (C)
 Why do {VHF signal strengths} sometimes {vary greatly when the antenna is moved} only a few feet?
@@ -920,6 +954,290 @@ D. Range increase
 ~~
 
 
+T3B - Electromagnetic wave properties: wavelength vs frequency, nature and velocity of electromagnetic waves, relationship of wavelength and frequency; Electromagnetic spectrum definitions: UHF, VHF, HF
+
+T3B01 (D)
+What is the {relationship between} the {electric and magnetic fields} of an electromagnetic wave?
+A. They travel at different speeds
+B. They are in parallel
+C. They revolve in opposite directions 
+D. They are at {right angles}
+~~
+
+T3B02 (A)
+What property of a {radio wave} defines its {polarization}?
+A. The orientation of the {electric field}
+B. The orientation of the magnetic field
+C. The ratio of the energy in the magnetic field to the energy in the electric field
+D. The ratio of the velocity to the wavelength
+~~
+
+T3B03 (C)
+What are the two {components of a radio wave}?
+A. Impedance and reactance
+B. Voltage and current
+C. {Electric and magnetic} fields
+D. Ionizing and non-ionizing radiation
+~~
+
+T3B04 (A)
+What is the {velocity of a radio wave} traveling through free space?
+A. {Speed of light}
+B. Speed of sound
+C. Speed inversely proportional to its wavelength
+D. Speed that increases as the frequency increases
+~~
+
+T3B05 (B)
+What is the {relationship} between {wavelength} and {frequency}?
+A. Wavelength gets longer as frequency increases
+B. {Wavelength gets shorter as frequency increases}
+C. Wavelength and frequency are unrelated
+D. Wavelength and frequency increase as path length increases
+~~
+
+T3B06 (D)
+What is the {formula} for converting {frequency} to approximate {wavelength in meters}?
+A. Wavelength in meters equals frequency in hertz multiplied by 300
+B. Wavelength in meters equals frequency in hertz divided by 300
+C. Wavelength in meters equals frequency in megahertz divided by 300
+D. Wavelength in meters equals {300 divided by frequency in megahertz}
+~~
+
+T3B07 (A)
+In addition to frequency, which of the following is {used to identify} amateur radio {band}?
+A. The approximate {wavelength} in meters
+B. Traditional letter/number designators
+C. Channel numbers
+D. All these choices are correct
+~~
+
+T3B08 (B)
+What frequency range is referred to as {VHF}?
+A. 30 kHz to 300 kHz
+B. {30 MHz to 300 MHz}
+C. 300 kHz to 3000 kHz
+D. 300 MHz to 3000 MHz
+~~
+
+T3B09 (D)
+What frequency range is referred to as {UHF}?
+A. 30 to 300 kHz
+B. 30 to 300 MHz
+C. 300 to 3000 kHz
+D. {300 to 3000 MHz}
+~~
+
+T3B10 (C)
+What frequency range is referred to as {HF}?
+A. 300 to 3000 MHz
+B. 30 to 300 MHz
+C. {3 to 30 MHz}
+D. 300 to 3000 kHz
+~~
+
+T3B11 (B)
+What is the approximate {velocity of a radio wave} in free space?
+A. 150,000 meters per second
+B. {300,000,000 meters per second}
+C. 300,000,000 miles per hour
+D. 150,000 miles per hour
+~~
+
+
+T3C - Propagation modes: sporadic E, meteor scatter, auroral propagation, tropospheric ducting; F region skip; Line of sight and radio horizon 
+
+T3C01 (C)
+Why are simplex {UHF signals rarely heard beyond their radio horizon}?
+A. They are too weak to go very far
+B. FCC regulations prohibit them from going more than 50 miles
+C. UHF signals are usually {not propagated by the ionosphere}
+D. UHF signals are absorbed by the ionospheric D region
+~~
+
+T3C02 (C)
+What is a {characteristic of HF} communication compared with communications on VHF and higher frequencies?
+A. HF antennas are generally smaller
+B. HF accommodates wider bandwidth signals
+C. {Long-distance ionospheric propagation} is far more common on HF
+D. There is less atmospheric interference (static) on HF
+~~
+
+T3C03 (B)
+What is a characteristic of {VHF} signals received via {auroral backscatter}?
+A. They are often received from 10,000 miles or more
+B. They are {distorted and signal strength varies} considerably
+C. They occur only during winter nighttime hours
+D. They are generally strongest when your antenna is aimed west
+~~
+
+T3C04 (B)
+Which of the following types of propagation is most commonly associated with occasional {strong signals on the 10, 6, and 2 meter bands from beyond the radio horizon}?
+A. Backscatter
+B. {Sporadic E}
+C. D region absorption
+D. Gray-line propagation
+~~
+
+T3C05 (A)
+Which of the following effects may allow {radio signals} to travel {beyond obstructions} between the transmitting and receiving stations?
+A. {Knife-edge diffraction}
+B. Faraday rotation
+C. Quantum tunneling
+D. Doppler shift
+~~
+
+T3C06 (A)
+What type of propagation is responsible for allowing {over-the-horizon VHF and UHF} communications to ranges of approximately {300 miles} on a regular basis?
+A. {Tropospheric ducting}
+B. D region refraction
+C. F2 region refraction
+D. Faraday rotation
+~~
+
+T3C07 (B)
+What {band} is {best} suited for communicating via {meteor scatter}?
+A. 33 centimeters
+B. {6 meters}
+C. 2 meters
+D. 70 centimeters
+~~
+
+T3C08 (D)
+What causes {tropospheric ducting}?
+A. Discharges of lightning during electrical storms
+B. Sunspots and solar flares
+C. Updrafts from hurricanes and tornadoes
+D. {Temperature inversions} in the atmosphere
+~~
+
+T3C09 (A)
+What is generally the {best time} for {long-distance 10 meter} band propagation via the {F region}?
+A. From {dawn to shortly after sunset} during periods of {high sunspot activity}
+B. From shortly after sunset to dawn during periods of high sunspot activity
+C. From dawn to shortly after sunset during periods of low sunspot activity
+D. From shortly after sunset to dawn during periods of low sunspot activity
+~~
+
+T3C10 (A)
+Which of the following {bands} may provide {long-distance} communications via the ionosphere’s {F region} during the peak of the {sunspot} cycle?
+A. {6 and 10 meters}
+B. 23 centimeters 
+C. 70 centimeters and 1.25 meters 
+D. All these choices are correct
+~~
+
+T3C11 (C)
+Why is the {radio horizon} for {VHF} and {UHF} signals {more distant than the visual horizon}?
+A. Radio signals move somewhat faster than the speed of light
+B. Radio waves are not blocked by dust particles
+C. The {atmosphere refracts} radio waves slightly
+D. Radio waves are blocked by dust particles
+~~
+
+
+SUBELEMENT T4 – AMATEUR RADIO PRACTICES – [2 Exam Questions - 2 Groups] 
+
+T4A – Station setup: connecting a microphone, a power source, a computer, digital equipment, an SWR meter; bonding; Mobile radio installation 
+
+T4A01 (D)
+Which of the following is an appropriate {power supply} rating for a typical {50 watt output} mobile FM transceiver?
+A. 24.0 volts at 4 amperes
+B. 13.8 volts at 4 amperes
+C. 24.0 volts at 12 amperes
+D. {13.8 volts} at {12 amperes}
+~~
+
+T4A02 (A)
+Which of the following should be considered when {selecting an accessory SWR meter}?
+A. The {frequency and power level} at which the measurements will be made
+B. The distance that the meter will be located from the antenna
+C. The types of modulation being used at the station
+D. All these choices are correct
+~~
+
+T4A03 (A)
+Why are {short, heavy-gauge wires} used for a transceiver’s {DC power connection}?
+A. To {minimize voltage drop} when transmitting
+B. To provide a good counterpoise for the antenna
+C. To avoid RF interference
+D. All these choices are correct
+~~
+
+T4A04 (B)
+How are the transceiver audio input and output connected in a station configured to operate using FT8?
+A. To a computer running a terminal program and connected to a terminal node controller unit
+B. To the audio input and output of a computer running WSJT-X software
+C. To an FT8 conversion unit, a keyboard, and a computer monitor 
+D. To a computer connected to the FT8converter.com website
+~~
+
+T4A05 (A)
+{Where} should an {RF power meter} be installed?
+A. In the feed line, {between the transmitter and antenna}
+B. At the power supply output
+C. In parallel with the push-to-talk line and the antenna
+D. In the power supply cable, as close as possible to the radio
+~~
+
+T4A06 (C)
+What {signals} are used in a {computer-radio} interface for {digital mode} operation?
+A. Receive and transmit mode, status, and location
+B. Antenna and RF power
+C. {Receive audio, transmit audio, and transmitter keying}
+D. NMEA GPS location and DC power
+~~
+
+T4A07 (C)
+Which of the following {connections} is made {between a computer and a transceiver} to use computer software when operating {digital modes}?
+A. Computer “line out” to transceiver push-to-talk
+B. Computer “line in” to transceiver push-to-talk
+C. {Computer “line in” to transceiver speaker} connector
+D. Computer “line out” to transceiver speaker connector
+~~
+
+T4A08 (D)
+Which of the following conductors is {preferred for bonding at RF}?
+A. Copper braid removed from coaxial cable
+B. Steel wire
+C. Twisted-pair cable
+D. {Flat copper strap}
+~~
+
+T4A09 (B)
+How can you determine the {length of time} that equipment can be {powered from a battery}?
+A. Divide the watt-hour rating of the battery by the peak power consumption of the equipment
+B. {Divide} the {battery ampere-hour} rating by the {average current} draw of the equipment
+C. Multiply the watts per hour consumed by the equipment by the battery power rating
+D. Multiply the square of the current rating of the battery by the input resistance of the equipment
+~~
+
+T4A10 (A)
+What function is performed with a transceiver and a {digital mode hot spot}?
+A. Communication using {digital voice or dat}a systems {via the internet}
+B. FT8 digital communications via AFSK
+C. RTTY encoding and decoding without a computer
+D. High-speed digital communications for meteor scatter
+~~
+
+T4A11 (A)
+Where should the {negative power retur}n of a mobile transceiver be connected {in a vehicle}?
+A. At the 12 volt {battery chassis ground}
+B. At the antenna mount
+C. To any metal part of the vehicle
+D. Through the transceiver’s mounting bracket
+~~
+
+T4A12 (C)
+What is an {electronic keyer}?
+A. A device for switching antennas from transmit to receive
+B. A device for voice activated switching from receive to transmit
+C. A device that {assists in manual sending of Morse code}
+D. An interlock to prevent unauthorized use of a radio 
+~~
+
+
+T6C - Circuit diagrams: use of schematics, basic structure; Schematic symbols of basic components 
 
 T6C01 (C)
 What is the name of an {electrical wiring diagram} that uses {standard component symbols}?
