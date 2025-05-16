@@ -104,8 +104,18 @@ function parseMetaInfo(metaInfoString) {
     return { questionNumber: questionNumber, answerLetter: answerLetter, reference: reference };
 }
 
-function identifyFigureReference(questionText) {
-    const regex = /[Ff]igure [TGE][0-9]?-[0-9]/
+function identifyPart97(reference) {
+    const regex = /97\.[0-9]+/;
+    let part97Sections = undefined;
+    if (reference.match(regex)) {
+        part97Sections = reference.match(regex);
+        console.debug("References:", part97Sections);
+    }
+    return part97Sections;
+}
+
+function identifyFigure(questionText) {
+    const regex = /[Ff]igure [TGE][0-9]?-[0-9]/;
     let figure = undefined;
     if (questionText.match(regex)) {
         figure = questionText.match(regex)[0];
@@ -132,10 +142,10 @@ async function showQuestion(questionText, figure) {
     await saySomething(questionText);
 }
 
-function showAnswerChoices(answerArray, correctAnswer) {
+function showAnswerChoices(answerChoices, correctAnswer) {
     const parentElement = document.getElementById("answer-choices");
     parentElement.innerHTML = "";
-    answerArray.forEach(possibility => {
+    answerChoices.forEach(possibility => {
         let choiceLetter = possibility.charAt(0);
         choiceText = possibility.slice(3);
         console.debug(`Choice ${choiceLetter}: ${choiceText}`);
@@ -147,6 +157,17 @@ function showAnswerChoices(answerArray, correctAnswer) {
         else {
             parentElement.innerHTML += `<li class="wrong-answer">${choiceText}</li>`;
         }
+    });
+}
+
+function showReferences(references) {
+    const referencesElement = document.getElementById("references");
+    referencesElement.style.visibility = "hidden";
+    referencesElement.innerHTML = "";
+    references.forEach(ref => {
+        let url = "https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-97/subpart-A/section-" + ref;
+        console.debug("Answer reference:", URL);
+        referencesElement.innerHTML += `<a href="${url}" target="_blank">${ref}</a> `;
     });
 }
 
@@ -172,6 +193,9 @@ async function revealAnswer(parentId) {
     const correctAnswer = parentElement.getElementsByClassName("correct-answer");
     correctAnswer.item(0).classList.add('correct-answer-revealed');
     correctAnswerText = correctAnswer.item(0).innerHTML;
+
+    // Reveal reference links only when answer is shown.
+    document.getElementById("references").style.visibility = "visible";
     await saySomething(correctAnswerText);
 }
 
@@ -194,10 +218,14 @@ function parseQuestionBlock(textBlock) {
 
     // The second line contains the question.
     let questionText = blockLines.shift();
-    let figureURI = identifyFigureReference(questionText);
+    let figureURI = identifyFigure(questionText);
     showQuestion(questionText, figureURI);
 
     // Possible answers are given on the remaining lines.
     let answerChoices = blockLines;
+    fccRuleReferences = identifyPart97(metaInfo.reference);
     showAnswerChoices(answerChoices, metaInfo.answerLetter);
+
+    // References are written, but remain hidden until answer is revealed.
+    showReferences(fccRuleReferences);
 }

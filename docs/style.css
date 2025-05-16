@@ -2,6 +2,15 @@
     box-sizing: border-box;
 }
 
+a {
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 body {
     background-color: darkslateblue;
     color: whitesmoke;
@@ -23,7 +32,10 @@ main {
     color: black;
     border: 1px solid black;
     border-radius: 1em;
-    padding: 3em;
+    padding-top: 3em;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 1em;  /* subtract height of hidden <p id=references"> and its margins */
 }
 
 .question-text {
@@ -40,6 +52,10 @@ main {
 
 #answer-choices {
     cursor: pointer;
+}
+
+#references {
+    text-align: right;
 }
 
 .highlight-on {
