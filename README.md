@@ -22,6 +22,23 @@ Use this test cram tool together with the [ARRL License Manual](https://home.arr
 ## What's It Good For?
 There are many study aids out there. This is only one of them. Though I do believe it's the only one that reads aloud. It can be used to cram before taking an exam. It could also be used as a teaching tool: posing the questions, giving time for discussion, and then triggering an answer reveal. Highlighting can be used to reinforce key concepts and further discussion.
 
+## Running Stand-Alone Without Internet
+If you have Python installed on your computer, you can run this in places without an internet connection. Clone or download this repository first, then chose one of the following depending on your operating system:
+
+Windows
+```
+cd ham-cram\docs
+.\run.bat
+```
+
+Linux / Mac
+```
+cd ham-cram/docs
+./run.sh
+```
+
+Point your web browser to http://localhost:8000
+
 ## How It Works (for the Curious)
 In a nutshell, it's an HTML / Javascript / CSS single page web app that parses a text file of questions and their answer choices in the [VEC question pool](https://www.ncvec.org/index.php/amateur-question-pools) format with minimal modifications to the text required. It then presents a single question and set of answer choices along with any relevant figures as graphics. The question is read aloud using Javascript speech synthesis in whatever voice is configured as the browser default. The next question can be sequential or random.
 
