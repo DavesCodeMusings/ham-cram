@@ -2468,49 +2468,49 @@ D. An {ammeter}
 T7D05 Question Removed (section not renumbered) 
 
 T7D06 (C)
-Which of the following can damage a multimeter?
+Which of the following {can damage a multimeter}?
 A. Attempting to measure resistance using the voltage setting
 B. Failing to connect one of the probes to ground
-C. Attempting to measure voltage when using the resistance setting
+C. Attempting to {measure voltage when using the resistance setting}
 D. Not allowing it to warm up properly
 ~~
 
 T7D07 (C)
-Which of the following measurements are made using a multimeter?
+Which of the following {measurements} are {made using a multimeter}?
 A. Signal strength and noise
 B. Impedance and reactance
-C. Voltage and resistance
+C. {Voltage and resistance}
 D. All these choices are correct
 ~~
 
 T7D08 (A)
-Which of the following types of solder should not be used for radio and electronic applications?
-A. Acid-core solder
+Which of the following {types of solder should not be used for radio and electronic} applications?
+A. {Acid-core solder}
 B. Lead-tin solder
 C. Rosin-core solder
 D. Tin-copper solder
 ~~
 
 T7D09 (C)
-What is the characteristic appearance of a cold tin-lead solder joint?
+What is the characteristic {appearance of a cold tin-lead solder joint}?
 A. Dark black spots
 B. A bright or shiny surface
-C. A rough or lumpy surface
+C. A {rough or lumpy} surface
 D. Excessive solder
 ~~
 
 T7D10 (A) 
-What reading indicates that an ohmmeter is connected across a large, discharged capacitor?
-A. Increasing resistance with time
+What reading indicates that an {ohmmeter} is connected across a {large, discharged capacitor}?
+A. {Increasing resistance} with time
 B. Decreasing resistance with time
 C. Steady full-scale reading
 D. Alternating between open and short circuit
 ~~
 
 T7D11 (B)
-Which of the following precautions should be taken when measuring in-circuit resistance with an ohmmeter?
+Which of the following precautions should be taken when {measuring in-circuit resistance} with an ohmmeter?
 A. Ensure that the applied voltages are correct
-B. Ensure that the circuit is not powered
+B. Ensure that the {circuit is not powered}
 C. Ensure that the circuit is grounded
 D. Ensure that the circuit is operating at the correct frequency
 ~~
