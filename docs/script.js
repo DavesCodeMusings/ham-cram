@@ -7,9 +7,20 @@ var questionNumber = -1;
 async function fetchQuestions() {
     let baseUrl = window.location.href.substring(0, window.location.href.lastIndexOf('/'));
     let fileName = window.location.search.slice(1);
+
+    // Expectation is the question pools will be stored as: [license_level]-pool.txt and may
+    // be selected using ?[license_level]-pool.txt, ?[license_level]-pool, or ?[license_level]
     if (!fileName) {
-        fileName = "technician-pool.txt";  // reasonable default
+        fileName = "technician-pool.txt";
     }
+    else if (fileName.endsWith("-pool")) {
+        fileName += ".txt"
+    }
+    else if (fileName.endsWith(".txt") == false) {
+        fileName += "-pool.txt"
+    }
+
+    // Question pool files should be in the same directory as everything else.
     let fileUrl = baseUrl + "/" + fileName;            
     console.debug("Retrieving questions from:", fileUrl);
     let filePromise = await fetch(fileUrl);
