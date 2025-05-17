@@ -150,7 +150,7 @@ async function showQuestion(questionText, figure) {
     console.debug("Question marked up as:", questionText);
     document.getElementById("question-text").innerHTML = questionText;
     if (figure) {
-        let figureURI = encodeURI(figure) + ".png";
+        let figureURI = "images/" + encodeURI(figure) + ".png";
         console.debug("Figure:", figure);
         console.debug("Figure URI:", figureURI);
         document.getElementById("illustration").alt = figure;
