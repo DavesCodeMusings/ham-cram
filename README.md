@@ -1,5 +1,5 @@
 # ham-cram
-Ham radio exam study guides pairing question pools with text to speech and keyword highlighting.
+Ham radio exam study app that pairs question pools with text to speech and keyword highlighting.
 
 **Note: Highlighting of question pools is only partially complete at this time.**
 
