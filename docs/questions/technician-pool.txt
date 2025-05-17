@@ -1341,205 +1341,205 @@ SUBELEMENT T5 – ELECTRICAL PRINCIPLES – [4 Exam Questions - 4 Groups]
 T5A – Current and voltage: terminology and units, conductors and insulators, alternating and direct current 
 
 T5A01 (D)
-Electrical current is measured in which of the following units?
+Electrical {current} is measured in which of the following units?
 A. Volts
 B. Watts
 C. Ohms
-D. Amperes
+D. {Amperes}
 ~~
 
 T5A02 (B)
-Electrical power is measured in which of the following units?
+Electrical {power} is measured in which of the following units?
 A. Volts
-B. Watts
+B. {Watts}
 C. Watt-hours
 D. Amperes
 ~~
 
 T5A03 (D)
-What is the name for the flow of electrons in an electric circuit?
+What is the name for the {flow of electrons} in an electric circuit?
 A. Voltage
 B. Resistance
 C. Capacitance
-D. Current 
+D. {Current}
 ~~
 
 T5A04 (C)
-What are the units of electrical resistance?
+What are the units of electrical {resistance}?
 A. Siemens
 B. Mhos
-C. Ohms
+C. {Ohms}
 D. Coulombs
 ~~
 
 T5A05 (A)
-What is the electrical term for the force that causes electron flow?
-A. Voltage
+What is the electrical term for the {force that causes electron flow}?
+A. {Voltage}
 B. Ampere-hours
 C. Capacitance
 D. Inductance
 ~~
 
 T5A06 (A)
-What is the unit of frequency?
-A. Hertz
+What is the unit of {frequency}?
+A. {Hertz}
 B. Henry
 C. Farad
 D. Tesla
 ~~
 
 T5A07 (B)
-Why are metals generally good conductors of electricity?
+Why are {metals} generally {good conductors} of electricity?
 A. They have relatively high density
-B. They have many free electrons
+B. They have many {free electrons}
 C. They have many free protons
 D. All these choices are correct
 ~~
 
 T5A08 (B)
-Which of the following is a good electrical insulator?
+Which of the following is a good electrical {insulator}?
 A. Copper
-B. Glass
+B. {Glass}
 C. Aluminum
 D. Mercury
 ~~
 
 T5A09 (C)
-Which of the following describes alternating current?
+Which of the following describes {alternating current}?
 A. Current that alternates between a positive direction and zero
 B. Current that alternates between a negative direction and zero
-C. Current that alternates between positive and negative directions
+C. Current that {alternates between positive and negative} directions
 D. All these answers are correct
 ~~
 
 T5A10 (C)
-Which term describes the rate at which electrical energy is used?
+Which term describes the rate at which {electrical energy} is {used}?
 A. Resistance
 B. Current
-C. Power
+C. {Power}
 D. Voltage
 ~~
 
 T5A11 (D)
-What type of current flow is opposed by resistance?
+What type of current flow is {opposed by resistance}?
 A. Direct current
 B. Alternating current
 C. RF current
-D. All these choices are correct
+D. {All these} choices are correct
 ~~
 
 T5A12 (D)
-What describes the number of times per second that an alternating current makes a complete cycle?
+What describes the number of {times per second} that an alternating current makes a {complete cycle}?
 A. Pulse rate
 B. Speed
 C. Wavelength
-D. Frequency
+D. {Frequency}
 ~~
 
 
 T5B - Math for electronics: conversion of electrical units, decibels 
 
 T5B01 (C)
-How many milliamperes is 1.5 amperes?
+How many {milliamperes} is {1.5 amperes}?
 A. 15 milliamperes
 B. 150 milliamperes
-C. 1500 milliamperes
+C. {1500 milliamperes}
 D. 15,000 milliamperes
 ~~
 
 T5B02 (A)
-Which is equal to 1,500,000 hertz?
-A. 1500 kHz
+Which is equal to {1,500,000 hertz}?
+A. {1500 kHz}
 B. 1500 MHz
 C. 15 GHz
 D. 150 kHz
 ~~
 
 T5B03 (C)
-Which is equal to one kilovolt?
+Which is equal to {one kilovolt}?
 A. One one-thousandth of a volt
 B. One hundred volts
-C. One thousand volts
+C. {One thousand volts}
 D. One million volts
 ~~
 
 T5B04 (A)
-Which is equal to one microvolt?
-A. One one-millionth of a volt
+Which is equal to {one microvolt}?
+A. One {one-millionth of a volt}
 B. One million volts
 C. One thousand kilovolts
 D. One one-thousandth of a volt
 ~~
 
 T5B05 (B)
-Which is equal to 500 milliwatts?
+Which is equal to {500 milliwatts}?
 A. 0.02 watts
-B. 0.5 watts
+B. {0.5 watts}
 C. 5 watts
 D. 50 watts
 ~~
 
 T5B06 (D)
-Which is equal to 3000 milliamperes?
+Which is equal to {3000 milliamperes}?
 A. 0.003 amperes
 B. 0.3 amperes
 C. 3,000,000 amperes
-D. 3 amperes
+D. {3 amperes}
 ~~
 
 T5B07 (C)
-Which is equal to 3.525 MHz? 
+Which is equal to {3.525 MHz}? 
 A. 0.003525 kHz
 B. 35.25 kHz
-C. 3525 kHz
+C. {3525 kHz}
 D. 3,525,000 kHz
 ~~ 
 
 T5B08 (B)
-Which is equal to 1,000,000 picofarads?
+Which is equal to {1,000,000 picofarads}?
 A. 0.001 microfarads
-B. 1 microfarad
+B. {1 microfarad}
 C. 1000 microfarads
 D. 1,000,000,000 microfarads
 ~~
 
 T5B09 (B)
-Which decibel value most closely represents a power increase from 5 watts to 10 watts?
+Which {decibel} value most closely represents a power {increase from 5 watts to 10 watts}?
 A. 2 dB
-B. 3 dB
+B. {3 dB}
 C. 5 dB
 D. 10 dB
 ~~
 
 T5B10 (C)
-Which decibel value most closely represents a power decrease from 12 watts to 3 watts?
+Which decibel value most closely represents a power {decrease from 12 watts to 3 watts}?
 A. -1 dB
 B. -3 dB
-C. -6 dB
+C. {-6 dB}
 D. -9 dB
 ~~
 
 T5B11 (A)
-Which decibel value represents a power increase from 20 watts to 200 watts?
-A. 10 dB
+Which decibel value represents a power {increase from 20 watts to 200 watts}?
+A. {10 dB}
 B. 12 dB
 C. 18 dB
 D. 28 dB
 ~~
 
 T5B12 (D)
-Which is equal to 28400 kHz?
+Which is equal to {28400 kHz}?
 A. 28.400 kHz
 B. 2.800 MHz
 C. 284.00 MHz
-D. 28.400 MHz
+D. {28.400 MHz}
 ~~
 
 T5B13 (C)
-Which is equal to 2425 MHz?
+Which is equal to {2425 MHz}?
 A. 0.002425 GHz
 B. 24.25 GHz
-C. 2.425 GHz
+C. {2.425 GHz}
 D. 2425 GHz
 ~~
 
@@ -1547,107 +1547,107 @@ D. 2425 GHz
 T5C – Capacitance and inductance terminology and units; Radio frequency definition and units; Impedance definition and units; Calculating power 
 
 T5C01 (D)
-What describes the ability to store energy in an electric field?
+What describes the ability to {store energy in an electric field}?
 A. Inductance
 B. Resistance
 C. Tolerance 
-D. Capacitance
+D. {Capacitance}
 ~~
 
 T5C02 (A)
-What is the unit of capacitance?
-A. The farad
+What is the {unit of capacitance}?
+A. The {farad}
 B. The ohm
 C. The volt
 D. The henry
 ~~
 
 T5C03 (D)
-What describes the ability to store energy in a magnetic field?
+What describes the ability to {store energy in a magnetic field}?
 A. Admittance
 B. Capacitance
 C. Resistance
-D. Inductance
+D. {Inductance}
 ~~
 
 T5C04 (C)
-What is the unit of inductance?
+What is the {unit of inductance}?
 A. The coulomb
 B. The farad
-C. The henry
+C. The {henry}
 D. The ohm
 ~~
 
 T5C05 (D)
-What is the unit of impedance? 
+What is the {unit of impedance}? 
 A. The volt
 B. The ampere
 C. The coulomb
-D. The ohm
+D. The {ohm}
 ~~
 
 T5C06 (A)
-What does the abbreviation “RF” mean? 
-A. Radio frequency signals of all types
+What does the abbreviation "{RF}" mean? 
+A. {Radio frequency} signals of all types
 B. The resonant frequency of a tuned circuit
 C. The real frequency transmitted as opposed to the apparent frequency
 D. Reflective force in antenna transmission lines 
 ~~
 
 T5C07 (D)
-What is the abbreviation for megahertz?
+What is the abbreviation for {megahertz}?
 A. MH
 B. mh
 C. Mhz
-D. MHz
+D. {MHz}
 ~~
 
 T5C08 (A)
-What is the formula used to calculate electrical power (P) in a DC circuit?
-A. P = I  E
+What is the formula used to {calculate electrical power (P)} in a {DC} circuit?
+A. {P = I x E}
 B. P = E / I
 C. P = E – I
 D. P = I + E
 ~~
 
 T5C09 (A)
-How much power is delivered by a voltage of 13.8 volts DC and a current of 10 amperes?
-A. 138 watts
+How much {power} is delivered by a voltage of {13.8 volts DC} and a current of {10 amperes}?
+A. {138 watts}
 B. 0.7 watts
 C. 23.8 watts
 D. 3.8 watts
 ~~
 
 T5C10 (B)
-How much power is delivered by a voltage of 12 volts DC and a current of 2.5 amperes?
+How much {power} is delivered by a voltage of {12 volts DC} and a current of {2.5 amperes}?
 A. 4.8 watts
-B. 30 watts
+B. {30 watts}
 C. 14.5 watts
 D. 0.208 watts
 ~~
 
 T5C11 (B)
-How much current is required to deliver 120 watts at a voltage of 12 volts DC?
+How much {current} is required to deliver {120 watts} at a voltage of {12 volts DC}?
 A. 0.1 amperes
-B. 10 amperes
+B. {10 amperes}
 C. 12 amperes
 D. 132 amperes
 ~~
 
 T5C12 (A)
-What is impedance? 
-A. The opposition to AC current flow
+What is {impedance}? 
+A. The {opposition to AC current flow}
 B. The inverse of resistance
 C. The Q or Quality Factor of a component
 D. The power handling capability of a component
 ~~
 
 T5C13 (D)
-What is the abbreviation for kilohertz?
+What is the abbreviation for {kilohertz}?
 A. KHZ
 B. khz
 C. khZ
-D. kHz
+D. {kHz}
 ~~
 
 
@@ -1655,7 +1655,7 @@ T5D – Ohm’s Law; Series and parallel circuits
 
 T5D01 (B)
 What formula is used to calculate current in a circuit?
-A. I = E  R
+A. I = E x R
 B. I = E / R
 C. I = E + R
 D. I = E - R
