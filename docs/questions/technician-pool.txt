@@ -3234,73 +3234,73 @@ D. {All these} choices are correct
 ~~
 
 T0B03 (D)
-Under what circumstances is it safe to climb a tower without a helper or observer?
+Under what circumstances is it {safe to climb a tower without a helper} or observer?
 A. When no electrical work is being performed
 B. When no mechanical work is being performed
 C. When the work being done is not more than 20 feet above the ground
-D. Never
+D. {Never}
 ~~
 
 T0B04 (C)
-Which of the following is an important safety precaution to observe when putting up an antenna tower?
+Which of the following is an important {safety precaution} to observe when {putting up an antenna tower}?
 A. Wear a ground strap connected to your wrist at all times
 B. Insulate the base of the tower to avoid lightning strikes
-C. Look for and stay clear of any overhead electrical wires
+C. Look for and {stay clear of any overhead electrical wires}
 D. All these choices are correct
 ~~
 
 T0B05 (B)
-What is the purpose of a safety wire through a turnbuckle used to tension guy lines?
+What is the purpose of a {safety wire through a turnbuckle} used to tension guy lines?
 A. Secure the guy line if the turnbuckle breaks
-B. Prevent loosening of the turnbuckle from vibration
+B. {Prevent loosening} of the turnbuckle from vibration
 C. Provide a ground path for lightning strikes
 D. Provide an ability to measure for proper tensioning
 ~~
 
 T0B06 (D)
-What is the minimum safe distance from a power line to allow when installing an antenna?
+What is the {minimum safe distance from a power line} to allow {when installing an antenna}?
 A. Add the height of the antenna to the height of the power line and multiply by a factor of 1.5
 B. The height of the power line above ground
 C. 1/2 wavelength at the operating frequency
-D. Enough so that if the antenna falls, no part of it can come closer than 10 feet to the power wires
+D. Enough so that {if the antenna falls, no part of it can come closer than 10 feet to the power wires}
 ~~
 
 T0B07 (C)
-Which of the following is an important safety rule to remember when using a crank-up tower?
+Which of the following is an important {safety rule} to remember when using a {crank-up tower}?
 A. This type of tower must never be painted
 B. This type of tower must never be grounded
-C. This type of tower must not be climbed unless it is retracted, or mechanical safety locking devices have been installed
+C. This type of tower {must not be climbed unless it is retracted, or mechanical safety locking devices have been installed}
 D. All these choices are correct
 ~~
 
 T0B08 (D)
-Which is a proper grounding method for a tower?
+Which is a {proper grounding} method {for a tower}?
 A. A single four-foot ground rod, driven into the ground no more than 12 inches from the base
 B. A ferrite-core RF choke connected between the tower and ground
 C. A connection between the tower base and a cold water pipe
-D. Separate eight-foot ground rods for each tower leg, bonded to the tower and each other
+D. {Separate eight-foot ground rods for each tower leg, bonded to the tower and each other}
 ~~
 
 T0B09 (C)
-Why should you avoid attaching an antenna to a utility pole?
+Why should you {avoid attaching an antenna to a utility pole}?
 A. The antenna will not work properly because of induced voltages
 B. The 60 Hz radiations from the feed line may increase the SWR
-C. The antenna could contact high-voltage power lines
+C. The antenna {could contact high-voltage power lines}
 D. All these choices are correct
 ~~
 
 T0B10 (C)
-Which of the following is true when installing grounding conductors used for lightning protection?
+Which of the following is true when installing {grounding conductors used for lightning protection}?
 A. Use only non-insulated wire
 B. Wires must be carefully routed with precise right-angle bends
-C. Sharp bends must be avoided
+C. {Sharp bends must be avoided}
 D. Common grounds must be avoided
 ~~
 
 T0B11 (B)
-Which of the following establishes grounding requirements for an amateur radio tower or antenna?
+Which of the following {establishes grounding requirements} for an amateur radio {tower or antenna}?
 A. FCC Part 97 rules
-B. Local electrical codes
+B. {Local electrical codes}
 C. FAA tower lighting regulations
 D. UL recommended practices
 ~~
@@ -3309,26 +3309,26 @@ D. UL recommended practices
 T0C - RF hazards: radiation exposure, proximity to antennas, recognized safe power levels, radiation types, duty cycle 
 
 T0C01 (D)
-What type of radiation are radio signals?
+What {type of radiation} are {radio signals}?
 A. Gamma radiation
 B. Ionizing radiation
 C. Alpha radiation
-D. Non-ionizing radiation
+D. {Non-ionizing} radiation
 ~~
 
 T0C02 (B)
-At which of the following frequencies does maximum permissible exposure have the lowest value?
+At which of the following {frequencies} does maximum {permissible exposure} have the {lowest} value?
 A. 3.5 MHz
-B. 50 MHz
+B. {50 MHz}
 C. 440 MHz
 D. 1296 MHz
 ~~
 
 T0C03 (C)
-How does the allowable power density for RF safety change if duty cycle changes from 100 percent to 50 percent?
+How does the {allowable power density} for RF safety change {if duty cycle changes from 100 percent to 50 percent}?
 A. It increases by a factor of 3
 B. It decreases by 50 percent
-C. It increases by a factor of 2
+C. It {increases by a factor of 2}
 D. There is no adjustment allowed for lower duty cycle
 ~~
 
@@ -3341,11 +3341,11 @@ D. {All these} choices are correct
 ~~
 
 T0C05 (D)
-Why do exposure limits vary with frequency?
+Why do {exposure limits} vary with {frequency}?
 A. Lower frequency RF fields have more energy than higher frequency fields
 B. Lower frequency RF fields do not penetrate the human body
 C. Higher frequency RF fields are transient in nature
-D. The human body absorbs more RF energy at some frequencies than at others
+D. The human {body absorbs more RF energy at some frequencies} than at others
 ~~
 
 T0C06 (D)
@@ -3357,57 +3357,57 @@ D. {All these} choices are correct
 ~~
 
 T0C07 (B)
-What hazard is created by touching an antenna during a transmission?
+What {hazard} is created by {touching an antenna during a transmission}?
 A. Electrocution 
-B. RF burn to skin
+B. {RF burn} to skin
 C. Radiation poisoning
 D. All these choices are correct
 ~~
 
 T0C08 (A)
-Which of the following actions can reduce exposure to RF radiation?
-A. Relocate antennas
+Which of the following actions can {reduce exposure to RF radiation}?
+A. {Relocate antennas}
 B. Relocate the transmitter
 C. Increase the duty cycle
 D. All these choices are correct
 ~~
 
 T0C09 (B)
-How can you make sure your station stays in compliance with RF safety regulations?
+How can you make sure your station stays in {compliance with RF safety regulations}?
 A. By informing the FCC of any changes made in your station
-B. By re-evaluating the station whenever an item in the transmitter or antenna system is changed
+B. By {re-evaluating} the station {whenever an item in the transmitter or antenna system is changed}
 C. By making sure your antennas have low SWR
 D. All these choices are correct
 ~~
 
 T0C10 (A)
-Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?
-A. It affects the average exposure to radiation
+Why is {duty cycle} one of the factors used to determine safe {RF radiation exposure levels}?
+A. It {affects the average exposure} to radiation
 B. It affects the peak exposure to radiation
 C. It takes into account the antenna feed line loss
 D. It takes into account the thermal effects of the final amplifier
 ~~
 
 T0C11 (C)
-What is the definition of duty cycle during the averaging time for RF exposure? 
+What is the {definition of duty cycle} during the averaging time {for RF exposure}? 
 A. The difference between the lowest power output and the highest power output of a transmitter
 B. The difference between the PEP and average power output of a transmitter
-C. The percentage of time that a transmitter is transmitting
+C. The {percentage of time} that a transmitter is {transmitting}
 D. The percentage of time that a transmitter is not transmitting
 ~~
 
 T0C12 (A)
-How does RF radiation differ from ionizing radiation (radioactivity)?
-A. RF radiation does not have sufficient energy to cause chemical changes in cells and damage DNA
+How does {RF radiation differ from ionizing radiation} (radioactivity)?
+A. {RF radiation does not} have sufficient energy to {cause chemical changes in cells and damage DNA}
 B. RF radiation can only be detected with an RF dosimeter
 C. RF radiation is limited in range to a few feet
 D. RF radiation is perfectly safe
 ~~
 
 T0C13 (B)
-Who is responsible for ensuring that no person is exposed to RF energy above the FCC exposure limits?
+Who is {responsible for ensuring that no person is exposed to RF energy above the FCC exposure limits}?
 A. The FCC
-B. The station licensee
+B. The {station licensee}
 C. Anyone who is near an antenna
 D. The local zoning board
 ~~
