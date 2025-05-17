@@ -1,9 +1,13 @@
 # ham-cram
 Ham radio exam study guides pairing question pools with text to speech and keyword highlighting.
 
-**Note: The question pool is only partially complete at this time.**
+**Note: Highlighting of question pools is only partially complete at this time.**
 
-Find a working demo here on GitHub Pages: https://davescodemusings.github.io/ham-cram/
+Find a working demos here on GitHub Pages:
+
+* https://davescodemusings.github.io/ham-cram/?technician-pool
+* https://davescodemusings.github.io/ham-cram/?general-pool
+* https://davescodemusings.github.io/ham-cram/?extra-pool
 
 ## Brief Instructions for User Interface
 * To answer, click the selection (or press the letter on your keyboard.)
