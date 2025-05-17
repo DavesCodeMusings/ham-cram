@@ -197,16 +197,19 @@ function revealHighlights(...parentIds) {
 async function revealAnswer(parentId) {
     const parentElement = document.getElementById(parentId);
 
-    const wrongAnswers = parentElement.getElementsByClassName("wrong-answer");
-    for (let i = 0; i < wrongAnswers.length; i++) {
-        wrongAnswers.item(i).classList.add('wrong-answer-revealed');
-    }
-
     // There can be only one correct answer, so no need to iterate.
     const correctAnswer = parentElement.getElementsByClassName("correct-answer");
     correctAnswer.item(0).classList.add('correct-answer-revealed');
-    correctAnswerText = correctAnswer.item(0).innerHTML;
+    let correctAnswerText = correctAnswer.item(0).innerHTML;
 
+    // Only strike through when it's not "All these answer are correct"
+    if (!correctAnswerText.includes("All these")) {
+        const wrongAnswers = parentElement.getElementsByClassName("wrong-answer");
+        for (let i = 0; i < wrongAnswers.length; i++) {
+            wrongAnswers.item(i).classList.add('wrong-answer-revealed');
+        }
+    }
+    
     // Reveal reference links only when answer is shown.
     document.getElementById("references").style.visibility = "visible";
     await saySomething(correctAnswerText);
