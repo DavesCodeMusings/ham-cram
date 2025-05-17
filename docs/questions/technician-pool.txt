@@ -2332,10 +2332,10 @@ D. {All these} choices are correct
 ~~
 
 T7B11 (C)
-What is a symptom of RF feedback in a transmitter or transceiver?
+What is a {symptom of RF} feedback in a transmitter or transceiver?
 A. Excessive SWR at the antenna connection
 B. The transmitter will not stay on the desired frequency
-C. Reports of garbled, distorted, or unintelligible voice transmissions
+C. Reports of {garbled, distorted, or unintelligible voice} transmissions
 D. Frequent blowing of power supply fuses
 ~~
 
@@ -2343,7 +2343,7 @@ D. Frequent blowing of power supply fuses
 T7C – Antenna and transmission line measurements and troubleshooting: measuring SWR, effects of high SWR, causes of feed line failures; Basic coaxial cable characteristics; Use of dummy loads when testing 
 
 T7C01 (A)
-What is the primary purpose of a dummy load?
+What is the primary purpose of a {dummy load}?
 A. To prevent transmitting signals over the air when making tests
 B. To prevent over-modulation of a transmitter
 C. To improve the efficiency of an antenna
@@ -2351,82 +2351,82 @@ D. To improve the signal-to-noise ratio of a receiver
 ~~
 
 T7C02 (B)
-Which of the following is used to determine if an antenna is resonant at the desired operating frequency?
+Which of the following is used to {determine if an antenna is resonant} at the desired operating frequency?
 A. A VTVM
-B. An antenna analyzer
+B. An {antenna analyzer}
 C. A Q meter
 D. A frequency counter
 ~~
 
 T7C03 (B)
-What does a dummy load consist of?
+What does a {dummy load} consist of?
 A. A high-gain amplifier and a TR switch
-B. A non-inductive resistor mounted on a heat sink
+B. A {non-inductive resistor} mounted on a heat sink
 C. A low-voltage power supply and a DC relay
 D. A 50-ohm reactance used to terminate a transmission line 
 ~~
 
 T7C04 (C)
-What reading on an SWR meter indicates a perfect impedance match between the antenna and the feed line?
+What reading on an {SWR} meter indicates a {perfect impedance match} between the antenna and the feed line?
 A. 50:50
 B. Zero
-C. 1:1
+C. {1:1}
 D. Full Scale
 ~~
 
 T7C05 (A)
-Why do most solid-state transmitters reduce output power as SWR increases beyond a certain level?
-A. To protect the output amplifier transistors
+Why do most {solid-state transmitters reduce output power as SWR increases} beyond a certain level?
+A. To {protect} the {output} amplifier {transistors}
 B. To comply with FCC rules on spectral purity
 C. Because power supplies cannot supply enough current at high SWR
 D. To lower the SWR on the transmission line
 ~~
 
 T7C06 (D)
-What does an SWR reading of 4:1 indicate?
+What does an {SWR} reading of {4:1} indicate?
 A. Loss of -4 dB
 B. Good impedance match
 C. Gain of +4 dB
-D. Impedance mismatch
+D. {Impedance mismatch}
 ~~
 
 T7C07 (C)
-What happens to power lost in a feed line?
+What happens to {power lost in a feed line}?
 A. It increases the SWR
 B. It is radiated as harmonics
-C. It is converted into heat
+C. It is {converted into heat}
 D. It distorts the signal
 ~~
 
 T7C08 (D)
-Which instrument can be used to determine SWR? 
+Which {instrument} can be used to {determine SWR}? 
 A. Voltmeter
 B. Ohmmeter
 C. Iambic pentameter
-D. Directional wattmeter
+D. {Directional wattmeter}
 ~~
 
 T7C09 (A)
-Which of the following causes failure of coaxial cables?
-A. Moisture contamination
+Which of the following {causes failure of coaxial cables}?
+A. {Moisture contamination}
 B. Solder flux contamination
 C. Rapid fluctuation in transmitter output power
 D. Operation at 100% duty cycle for an extended period
 ~~
 
 T7C10 (D)
-Why should the outer jacket of coaxial cable be resistant to ultraviolet light?
+Why should the outer {jacket} of coaxial cable be {resistant to ultraviolet} light?
 A. Ultraviolet resistant jackets prevent harmonic radiation
 B. Ultraviolet light can increase losses in the cable’s jacket
 C. Ultraviolet and RF signals can mix, causing interference
-D. Ultraviolet light can damage the jacket and allow water to enter the cable
+D. {Ultraviolet light can damage the jacket and allow water to enter} the cable
 ~~
 
 T7C11 (C)
-What is a disadvantage of air core coaxial cable when compared to foam or solid dielectric types?
+What is a {disadvantage of air core coaxial cable} when compared to foam or solid dielectric types?
 A. It has more loss per foot
 B. It cannot be used for VHF or UHF antennas
-C. It requires special techniques to prevent moisture in the cable
+C. It requires {special techniques to prevent moisture} in the cable
 D. It cannot be used at below freezing temperatures
 ~~
 
@@ -2434,35 +2434,35 @@ D. It cannot be used at below freezing temperatures
 T7D – Using basic test instruments: voltmeter, ammeter, and ohmmeter; Soldering 
 
 T7D01 (B)
-Which instrument would you use to measure electric potential?
+Which instrument would you use to {measure electric potential}?
 A. An ammeter
-B. A voltmeter
+B. A {voltmeter}
 C. A wavemeter
 D. An ohmmeter
 ~~
 
 T7D02 (B)
-How is a voltmeter connected to a component to measure applied voltage?
+{How is a voltmeter connected} to a component to measure applied voltage?
 A. In series
-B. In parallel
+B. In {parallel}
 C. In quadrature
 D. In phase
 ~~
 
 T7D03 (A)
-When configured to measure current, how is a multimeter connected to a component?
-A. In series
+When configured to {measure current}, how is a {multimeter} connected to a component?
+A. In {series}
 B. In parallel
 C. In quadrature
 D. In phase
 ~~
 
 T7D04 (D)
-Which instrument is used to measure electric current?
+Which instrument is used to {measure electric current}?
 A. An ohmmeter
 B. An electrometer
 C. A voltmeter
-D. An ammeter
+D. An {ammeter}
 ~~
 
 T7D05 Question Removed (section not renumbered) 
