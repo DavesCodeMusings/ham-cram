@@ -1851,16 +1851,16 @@ D. {All these} choices are correct
 ~~
 
 T6A11 (B)
-Which of the following battery chemistries is not rechargeable?
+Which of the following battery chemistries is {not rechargeable}?
 A. Nickel-cadmium
-B. Carbon-zinc
+B. {Carbon-zinc}
 C. Lead-acid 
 D. Lithium-ion
 ~~
 
 T6A12(A)
-What type of switch is represented by component 3 in figure T-2?
-A. Single-pole single-throw
+What type of switch is represented by {component 3} in figure T-2?
+A. {Single-pole single-throw}
 B. Single-pole double-throw
 C. Double-pole single-throw
 D. Double-pole double-throw
@@ -1870,97 +1870,97 @@ D. Double-pole double-throw
 T6B – Semiconductors: basic principles and applications of solid state devices, diodes and transistors 
 
 T6B01 (A)
-Which is true about forward voltage drop in a diode?
-A. It is lower in some diode types than in others
+Which is true about {forward voltage drop in a diode}?
+A. It is {lower in some diode types} than in others
 B. It is proportional to peak inverse voltage
 C. It indicates that the diode is defective
 D. It has no impact on the voltage delivered to the load
 ~~
 
 T6B02 (C)
-What electronic component allows current to flow in only one direction?
+What electronic component {allows current to flow in only one direction}?
 A. Resistor
 B. Fuse
-C. Diode
+C. {Diode}
 D. Driven element
 ~~
 
 T6B03 (C)
-Which of these components can be used as an electronic switch?
+Which of these components can be used as an {electronic switch}?
 A. Varistor
 B. Potentiometer
-C. Transistor
+C. {Transistor}
 D. Thermistor
 ~~
 
 T6B04 (B)
-Which of the following components can consist of three regions of semiconductor material?
+Which of the following components can consist of {three regions of semiconductor material}?
 A. Alternator
-B. Transistor
+B. {Transistor}
 C. Triode
 D. Pentagrid converter
 ~~
 
 T6B05 (B)
-What type of transistor has a gate, drain, and source?
+What type of {transistor} has a {gate, drain, and source}?
 A. Varistor
-B. Field-effect
+B. {Field-effect}
 C. Tesla-effect
 D. Bipolar junction
 ~~
 
 T6B06 (B)
-How is the cathode lead of a semiconductor diode often marked on the package?
+How is the {cathode} lead of a semiconductor {diode} often {marked} on the package?
 A. With the word "cathode"
-B. With a stripe
+B. With {a stripe}
 C. With the letter C
 D. With the letter K
 ~~
 
 T6B07 (A)
-What causes a light-emitting diode (LED) to emit light?
-A. Forward current
+What causes a {light-emitting diode (LED)} to {emit light}?
+A. {Forward current}
 B. Reverse current
 C. Capacitively-coupled RF signal
 D. Inductively-coupled RF signal
 ~~
 
 T6B08 (D)
-What does the abbreviation FET stand for?
+What does the {abbreviation FET} stand for?
 A. Frequency Emission Transmitter
 B. Fast Electron Transistor
 C. Free Electron Transmitter
-D. Field Effect Transistor
+D. {Field Effect Transistor}
 ~~
 
 T6B09 (C)
-What are the names for the electrodes of a diode?
+What are the names for the {electrodes of a diode}?
 A. Plus and minus
 B. Source and drain
-C. Anode and cathode
+C. {Anode and cathode}
 D. Gate and base
 ~~
 
 T6B10 (B)
-Which of the following can provide power gain?
+Which of the following {can provide power gain}?
 A. Transformer
-B. Transistor
+B. {Transistor}
 C. Reactor
 D. Resistor
 ~~
 
 T6B11 (A)
-What is the term that describes a device's ability to amplify a signal?
-A. Gain
+What is the term that describes a {device's ability to amplify a signal}?
+A. {Gain}
 B. Forward resistance
 C. Forward voltage drop
 D. On resistance
 ~~
 
 T6B12 (B)
-What are the names of the electrodes of a bipolar junction transistor?
+What are the names of the {electrodes of a bipolar junction transistor}?
 A. Signal, bias, power
-B. Emitter, base, collector
+B. {Emitter, base, collector}
 C. Input, output, supply
 D. Pole one, pole two, output
 ~~
@@ -2276,35 +2276,35 @@ D. {All these} choices are correct
 ~~
 
 T7B04 (D)
-Which of the following could you use to cure distorted audio caused by RF current on the shield of a microphone cable?
+Which of the following could you use to {cure distorted audio caused by RF current on the shield} of a microphone cable?
 A. Band-pass filter
 B. Low-pass filter
 C. Preamplifier
-D. Ferrite choke
+D. {Ferrite choke}
 ~~
 
 T7B05 (A)
-How can fundamental overload of a non-amateur radio or TV receiver by an amateur signal be reduced or eliminated?
-A. Block the amateur signal with a filter at the antenna input of the affected receiver
+How can {fundamental overload} of a non-amateur radio or TV receiver by an amateur signal be {reduced or eliminated}?
+A. Block the amateur signal with a {filter at the antenna input of the affected receiver}
 B. Block the interfering signal with a filter on the amateur transmitter
 C. Switch the transmitter from FM to SSB
 D. Switch the transmitter to a narrow-band mode
 ~~
 
 T7B06 (A)
-Which of the following actions should you take if a neighbor tells you that your station’s transmissions are interfering with their radio or TV reception?
-A. Make sure that your station is functioning properly and that it does not cause interference to your own radio or television when it is tuned to the same channel 
+Which of the following actions should you take if a neighbor tells you that {your station}’s transmissions are {interfering} with their {radio or TV reception}?
+A. Make sure that your station is {functioning properly} and that it {does not cause interference to your own radio or television} when it is tuned to the same channel 
 B. Immediately turn off your transmitter and contact the nearest FCC office for assistance
 C. Install a harmonic doubler on the output of your transmitter and tune it until the interference is eliminated
 D. All these choices are correct
 ~~
 
 T7B07 (D)
-Which of the following can reduce overload of a VHF transceiver by a nearby commercial FM station?
+Which of the following can {reduce overload} of a VHF transceiver {by a nearby commercial FM station}?
 A. Installing an RF preamplifier
 B. Using double-shielded coaxial cable
 C. Installing bypass capacitors on the microphone cable
-D. Installing a band-reject filter
+D. Installing a {band-reject filter}
 ~~
 
 T7B08 (D)
@@ -2842,24 +2842,24 @@ D. A frame compression scheme for TV signals
 ~~
 
 T8D05 (A)
-Which of the following is an application of APRS?
-A. Providing real-time tactical digital communications in conjunction with a map showing the locations of stations
+Which of the following is an application of {APRS}?
+A. Providing {real-time tactical digital communications} in conjunction with a map showing the locations of stations
 B. Showing automatically the number of packets transmitted via PACTOR during a specific time interval
 C. Providing voice over internet connection between repeaters
 D. Providing information on the number of stations signed into a repeater
 ~~
 
 T8D06 (B)
-What does the abbreviation "PSK" mean?
+What does the abbreviation "{PSK}" mean?
 A. Pulse Shift Keying
-B. Phase Shift Keying
+B. {Phase Shift Keying}
 C. Packet Short Keying
 D. Phased Slide Keying
 ~~
 
 T8D07 (A)
-Which of the following describes DMR?
-A. A technique for time-multiplexing two digital voice signals on a single 12.5 kHz repeater channel
+Which of the following describes {DMR}?
+A. A technique for {time-multiplexing two digital voice signals} on a single 12.5 kHz repeater channel
 B. An automatic position tracking mode for FM mobiles communicating through repeaters
 C. An automatic computer logging technique for hands-off logging when communicating while operating a vehicle
 D. A digital technique for transmitting on two repeater inputs simultaneously for automatic error correction
@@ -3082,9 +3082,9 @@ D. {All these} choices are correct
 ~~
 
 T9B09 (B)
-What can cause erratic changes in SWR?
+What can cause {erratic changes in SWR}?
 A. Local thunderstorm
-B. Loose connection in the antenna or feed line
+B. {Loose connection} in the antenna or feed line
 C. Over-modulation
 D. Overload from a strong local station
 ~~
@@ -3098,16 +3098,16 @@ D. RG-58 cable can handle higher power levels
 ~~
 
 T9B11 (C)
-Which of the following types of feed line has the lowest loss at VHF and UHF?
+Which of the following types of {feed line} has the {lowest loss} at VHF and UHF?
 A. 50-ohm flexible coax
 B. Multi-conductor unbalanced cable
-C. Air-insulated hardline
+C. {Air-insulated hardline}
 D. 75-ohm flexible coax
 ~~
 
 T9B12 (A)
-What is standing wave ratio (SWR)?
-A. A measure of how well a load is matched to a transmission line
+What is standing wave ratio ({SWR})?
+A. A measure of {how well a load is matched to a transmission line}
 B. The ratio of amplifier power output to input
 C. The transmitter efficiency ratio
 D. An indication of the quality of your station’s ground connection
@@ -3119,9 +3119,9 @@ SUBELEMENT T0 – SAFETY – [3 Exam Questions - 3 Groups]
 T0A – Power circuits and hazards: hazardous voltages, fuses and circuit breakers, grounding, electrical code compliance; Lightning protection; Battery safety 
 
 T0A01 (B)
-Which of the following is a safety hazard of a 12-volt storage battery?
+Which of the following is a {safety hazard of a 12-volt storage battery}?
 A. Touching both terminals with the hands can cause electrical shock
-B. Shorting the terminals can cause burns, fire, or an explosion
+B. {Shorting the terminals} can cause burns, fire, or an explosion
 C. RF emissions from a nearby transmitter can cause the electrolyte to emit poison gas
 D. All these choices are correct
 ~~
@@ -3135,26 +3135,26 @@ D. {All these} choices are correct
 ~~
 
 T0A03 (B)
-In the United States, what circuit does black wire insulation indicate in a three-wire 120 V cable?
+In the {United States}, what circuit does {black wire insulation} indicate in a three-wire {120 V} cable?
 A. Neutral
-B. Hot
+B. {Hot}
 C. Equipment ground
 D. Black insulation is never used
 ~~
 
 T0A04 (B)
-What is the purpose of a fuse in an electrical circuit?
+What is the {purpose of a fuse} in an electrical circuit?
 A. To prevent power supply ripple from damaging a component
-B. To remove power in case of overload
+B. To {remove power in case of overload}
 C. To limit current to prevent shocks
 D. All these choices are correct
 ~~
 
 T0A05 (C)
-Why should a 5-ampere fuse never be replaced with a 20-ampere fuse?
+Why should a {5-ampere fuse never be replaced with a 20-ampere} fuse?
 A. The larger fuse would be likely to blow because it is rated for higher current
 B. The power supply ripple would greatly increase
-C. Excessive current could cause a fire
+C. {Excessive current could cause a fire}
 D. All these choices are correct
 ~~
 
@@ -3167,49 +3167,49 @@ D. {All these} choices are correct
 ~~
 
 T0A07 (D)
-Where should a lightning arrester be installed in a coaxial feed line?
+Where should a {lightning arrester} be installed in a {coaxial feed line}?
 A. At the output connector of a transceiver
 B. At the antenna feed point
 C. At the ac power service panel
-D. On a grounded panel near where feed lines enter the building
+D. On a {grounded panel near where feed lines enter the building}
 ~~
 
 T0A08 (A)
-Where should a fuse or circuit breaker be installed in a 120V AC power circuit?
-A. In series with the hot conductor only
+Where should a fuse or {circuit breaker} be installed in a {120V AC power circuit}?
+A. {In series with the hot conductor} only
 B. In series with the hot and neutral conductors
 C. In parallel with the hot conductor only
 D. In parallel with the hot and neutral conductors
 ~~
 
 T0A09 (C)
-What should be done to all external ground rods or earth connections?
+What should be done to all {external ground rods} or earth connections?
 A. Waterproof them with silicone caulk or electrical tape
 B. Keep them as far apart as possible
-C. Bond them together with heavy wire or conductive strap
+C. {Bond them together} with heavy wire or conductive strap
 D. Tune them for resonance on the lowest frequency of operation
 ~~
 
 T0A10 (A)
-What hazard is caused by charging or discharging a battery too quickly?
-A. Overheating or out-gassing
+What {hazard} is caused by {charging or discharging a battery too quickly}?
+A. {Overheating or out-gassing}
 B. Excess output ripple
 C. Half-wave rectification
 D. Inverse memory effect
 ~~ 
 
 T0A11 (D)
-What hazard exists in a power supply immediately after turning it off?
+What {hazard} exists in a {power supply} immediately {after turning it off}?
 A. Circulating currents in the dc filter
 B. Leakage flux in the power transformer
 C. Voltage transients from kickback diodes
-D. Charge stored in filter capacitors
+D. {Charge stored in filter capacitors}
 ~~
 
 T0A12 (B)
-Which of the following precautions should be taken when measuring high voltages with a voltmeter?
+Which of the following {precautions} should be taken {when measuring high voltages} with a voltmeter?
 A. Ensure that the voltmeter has very low impedance
-B. Ensure that the voltmeter and leads are rated for use at the voltages to be measured
+B. Ensure that the {voltmeter and leads are rated for use at the voltages to be measured}
 C. Ensure that the circuit is grounded through the voltmeter
 D. Ensure that the voltmeter is set to the correct frequency
 ~~
@@ -3218,10 +3218,10 @@ D. Ensure that the voltmeter is set to the correct frequency
 T0B – Antenna safety: tower safety and grounding, installing antennas, antenna supports 
 
 T0B01 (C)
-Which of the following is good practice when installing ground wires on a tower for lightning protection?
+Which of the following is {good practice when installing ground wires on a tower} for lightning protection?
 A. Put a drip loop in the ground connection to prevent water damage to the ground system
 B. Make sure all ground wire bends are right angles
-C. Ensure that connections are short and direct
+C. Ensure that {connections are short and direct}
 D. All these choices are correct
 ~~
 
