@@ -31,7 +31,7 @@ async function fetchQuestions() {
     let fileContents = await filePromise.text();
     let fileLines = fileContents.split(/\r?\n/);
 
-    // Clean up extra whitespace, blank lines, and heading lines.
+    // Clean up extra whitespace, blank lines, heading lines, and removed questions.
     fileLines = fileLines.map(line => line.trim());
     fileLines = fileLines.filter(line => {
         return line.length > 0;
@@ -41,6 +41,9 @@ async function fetchQuestions() {
     });
     fileLines = fileLines.filter(line => {
         return !line.match(/^[TGE][0-9][A-Z] /);
+    });
+    fileLines = fileLines.filter(line => {
+        return !line.match(/Question Removed/i);
     });
     console.debug("File lines:", fileLines);
 
