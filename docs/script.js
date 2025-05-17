@@ -21,7 +21,7 @@ async function fetchQuestions() {
     }
 
     // Question pool files should be in the same directory as everything else.
-    let fileUrl = baseUrl + "/" + fileName;            
+    let fileUrl = baseUrl + "/questions/" + fileName;            
     console.debug("Retrieving questions from:", fileUrl);
     let filePromise = await fetch(fileUrl);
     if (!filePromise.ok) {
