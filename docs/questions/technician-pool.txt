@@ -1654,113 +1654,113 @@ D. {kHz}
 T5D – Ohm’s Law; Series and parallel circuits 
 
 T5D01 (B)
-What formula is used to calculate current in a circuit?
+What formula is used to {calculate current} in a circuit?
 A. I = E x R
-B. I = E / R
+B. {I = E / R}
 C. I = E + R
 D. I = E - R
 ~~
 
 T5D02 (A)
-What formula is used to calculate voltage in a circuit?
-A. E = I x R
+What formula is used to {calculate voltage} in a circuit?
+A. {E = I x R}
 B. E = I / R
 C. E = I + R
 D. E = I - R
 ~~
 
 T5D03 (B)
-What formula is used to calculate resistance in a circuit?
+What formula is used to {calculate resistance} in a circuit?
 A. R = E x I
-B. R = E / I
+B. {R = E / I}
 C. R = E + I
 D. R = E - I
 ~~
 
 T5D04 (B)
-What is the resistance of a circuit in which a current of 3 amperes flows when connected to 90 volts?
+What is the {resistance} of a circuit in which a current of {3 amperes} flows when connected to {90 volts}?
 A. 3 ohms
-B. 30 ohms
+B. {30 ohms}
 C. 93 ohms
 D. 270 ohms
 ~~
 
 T5D05 (C)
-What is the resistance of a circuit for which the applied voltage is 12 volts and the current flow is 1.5 amperes?
+What is the {resistance} of a circuit for which the applied voltage is {12 volts} and the current flow is {1.5 amperes}?
 A. 18 ohms
 B. 0.125 ohms
-C. 8 ohms
+C. {8 ohms}
 D. 13.5 ohms
 ~~
 
 T5D06 (A)
-What is the resistance of a circuit that draws 4 amperes from a 12-volt source?
-A. 3 ohms
+What is the {resistance} of a circuit that draws {4 amperes} from a {12-volt source}?
+A. {3 ohms}
 B. 16 ohms
 C. 48 ohms
 D. 8 ohms
 ~~
 
 T5D07 (D)
-What is the current in a circuit with an applied voltage of 120 volts and a resistance of 80 ohms?
+What is the {current} in a circuit with an applied voltage of {120 volts} and a resistance of {80 ohms}?
 A. 9600 amperes
 B. 200 amperes
 C. 0.667 amperes
-D. 1.5 amperes
+D. {1.5 amperes}
 ~~
 
 T5D08 (C)
-What is the current through a 100-ohm resistor connected across 200 volts?
+What is the {current} through a {100-ohm} resistor connected across {200 volts}?
 A. 20,000 amperes
 B. 0.5 amperes
-C. 2 amperes
+C. {2 amperes}
 D. 100 amperes
 ~~
 
 T5D09 (C)
-What is the current through a 24-ohm resistor connected across 240 volts?
+What is the {current} through a {24-ohm} resistor connected across {240 volts}?
 A. 24,000 amperes
 B. 0.1 amperes
-C. 10 amperes
+C. {10 amperes}
 D. 216 amperes
 ~~
 
 T5D10 (A)
-What is the voltage across a 2-ohm resistor if a current of 0.5 amperes flows through it?
-A. 1 volt
+What is the {voltage} across a {2-ohm} resistor if a current of {0.5 amperes} flows through it?
+A. {1 volt}
 B. 0.25 volts
 C. 2.5 volts
 D. 1.5 volts
 ~~
 
 T5D11 (B)
-What is the voltage across a 10-ohm resistor if a current of 1 ampere flows through it?
+What is the {voltage} across a {10-ohm} resistor if a current of {1 ampere} flows through it?
 A. 1 volt
-B. 10 volts
+B. {10 volts}
 C. 11 volts
 D. 9 volts
 ~~
 
 T5D12 (D)
-What is the voltage across a 10-ohm resistor if a current of 2 amperes flows through it?
+What is the {voltage} across a {10-ohm} resistor if a current of {2 amperes} flows through it?
 A. 8 volts
 B. 0.2 volts
 C. 12 volts
-D. 20 volts
+D. {20 volts}
 ~~
 
 T5D13 (A)
-In which type of circuit is DC current the same through all components?
-A. Series
+In which type of circuit is {DC current the same through all components}?
+A. {Series}
 B. Parallel
 C. Resonant
 D. Branch
 ~~
 
 T5D14 (B)
-In which type of circuit is voltage the same across all components?
+In which type of circuit is {voltage the same across all components}?
 A. Series
-B. Parallel
+B. {Parallel}
 C. Resonant
 D. Branch
 ~~
@@ -1771,72 +1771,72 @@ SUBELEMENT T6 – ELECTRONIC AND ELECTRICAL COMPONENTS – [4 Exam Questions - 4
 T6A - Fixed and variable resistors; Capacitors; Inductors; Fuses; Switches; Batteries 
 
 T6A01 (B)
-What electrical component opposes the flow of current in a DC circuit?
+What electrical component {opposes the flow of current} in a DC circuit?
 A. Inductor
-B. Resistor
+B. {Resistor}
 C. Inverter
 D. Transformer
 ~~
 
 T6A02 (C)
-What type of component is often used as an adjustable volume control?
+What type of component is often used as an {adjustable volume control}?
 A. Fixed resistor
 B. Power resistor
-C. Potentiometer
+C. {Potentiometer}
 D. Transformer
 ~~
 
 T6A03 (B)
-What electrical parameter is controlled by a potentiometer?
+What electrical parameter is {controlled by a potentiometer}?
 A. Inductance
-B. Resistance
+B. {Resistance}
 C. Capacitance
 D. Field strength
 ~~
 
 T6A04 (B)
-What electrical component stores energy in an electric field?
+What electrical component {stores energy in an electric field}?
 A. Varistor
-B. Capacitor
+B. {Capacitor}
 C. Inductor
 D. Diode
 ~~
 
 T6A05 (D) 
-What type of electrical component consists of conductive surfaces separated by an insulator?
+What type of electrical component consists of {conductive surfaces separated by an insulator}?
 A. Resistor
 B. Potentiometer
 C. Oscillator
-D. Capacitor
+D. {Capacitor}
 ~~
 
 T6A06 (C)
-What type of electrical component stores energy in a magnetic field?
+What type of electrical component {stores energy in a magnetic field}?
 A. Varistor
 B. Capacitor
-C. Inductor
+C. {Inductor}
 D. Diode
 ~~
 
 T6A07 (D)
-What electrical component is typically constructed as a coil of wire?
+What electrical component is typically {constructed as a coil of wire}?
 A. Switch
 B. Capacitor
 C. Diode
-D. Inductor
+D. {Inductor}
 ~~
 
 T6A08 (C)
-What is the function of an SPDT switch?
+What is the {function of an SPDT switch}?
 A. A single circuit is opened or closed
 B. Two circuits are opened or closed
-C. A single circuit is switched between one of two other circuits
+C. A single circuit is {switched between one of two other circuits}
 D. Two circuits are each switched between one of two other circuits
 ~~
 
 T6A09 (A)
-What electrical component is used to protect other circuit components from current overloads?
-A. Fuse
+What electrical component is used to {protect} other circuit components {from current overloads}?
+A. {Fuse}
 B. Thyratron
 C. Varactor
 D. All these choices are correct
