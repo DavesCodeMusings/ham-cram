@@ -2874,11 +2874,11 @@ D. {All these} choices are correct
 ~~
 
 T8D09 (D)
-What is CW?
+What is {CW}?
 A. A type of electromagnetic propagation
 B. A digital mode used primarily on 2 meter FM
 C. A technique for coil winding
-D. Another name for a Morse code transmission
+D. Another name for a {Morse code} transmission
 ~~
 
 T8D10 (D)
@@ -2890,25 +2890,25 @@ D. {All these} choices are correct
 ~~
 
 T8D11 (C)
-What is an ARQ transmission system?
+What is an {ARQ} transmission system?
 A. A special transmission format limited to video signals
 B. A system used to encrypt command signals to an amateur radio satellite
-C. An error correction method in which the receiving station detects errors and sends a request for retransmission
+C. An {error correction method} in which the receiving station detects errors and sends a request for retransmission
 D. A method of compressing data using autonomous reiterative Q codes prior to final encoding
 ~~
 
 T8D12 (A)
-Which of the following best describes an amateur radio mesh network?
-A. An amateur-radio based data network using commercial Wi-Fi equipment with modified firmware
+Which of the following best describes an {amateur radio mesh network}?
+A. An amateur-radio based {data network using commercial Wi-Fi equipment} with modified firmware
 B. A wide-bandwidth digital voice mode employing DMR protocols
 C. A satellite communications network using modified commercial satellite TV hardware
 D. An internet linking protocol used to network repeaters
 ~~
 
 T8D13 (B)
-What is FT8?
+What is {FT8}?
 A. A wideband FM voice mode
-B. A digital mode capable of low signal-to-noise operation
+B. A {digital mode} capable of {low signal-to-noise} operation
 C. An eight channel multiplex mode for FM repeaters
 D. A digital slow-scan TV mode with forward error correction and automatic color compensation
 ~~
@@ -2919,96 +2919,96 @@ SUBELEMENT T9 – ANTENNAS AND FEED LINES - [2 Exam Questions - 2 Groups]
 T9A – Antennas: vertical and horizontal polarization, concept of antenna gain, definition and types of beam antennas, antenna loading, common portable and mobile antennas, relationships between resonant length and frequency, dipole pattern 
 
 T9A01 (C)
-What is a beam antenna?
+What is a {beam antenna}?
 A. An antenna built from aluminum I-beams
 B. An omnidirectional antenna invented by Clarence Beam
-C. An antenna that concentrates signals in one direction
+C. An antenna that {concentrates signals in one direction}
 D. An antenna that reverses the phase of received signals
 ~~
 
 T9A02 (A)
-Which of the following describes a type of antenna loading?
-A. Electrically lengthening by inserting inductors in radiating elements
+Which of the following describes a type of {antenna loading}?
+A. {Electrically lengthening by inserting inductors} in radiating elements
 B. Inserting a resistor in the radiating portion of the antenna to make it resonant
 C. Installing a spring in the base of a mobile vertical antenna to make it more flexible
 D. Strengthening the radiating elements of a beam antenna to better resist wind damage
 ~~
 
 T9A03 (B)
-Which of the following describes a simple dipole oriented parallel to Earth's surface?
+Which of the following describes a simple {dipole oriented parallel to Earth}'s surface?
 A. A ground-wave antenna
-B. A horizontally polarized antenna
+B. A {horizontally polarized} antenna
 C. A travelling-wave antenna
 D. A vertically polarized antenna 
 ~~
 
 T9A04 (A)
-What is a disadvantage of the short, flexible antenna supplied with most handheld radio transceivers, compared to a full-sized quarter-wave antenna?
-A. It has low efficiency
+What is a {disadvantage of the short, flexible antenna supplied with most handheld} radio transceivers, compared to a full-sized quarter-wave antenna?
+A. It has {low efficiency}
 B. It transmits only circularly polarized signals
 C. It is mechanically fragile
 D. All these choices are correct
 ~~
 
 T9A05 (C)
-Which of the following increases the resonant frequency of a dipole antenna?
+Which of the following {increases the resonant frequency of a dipole} antenna?
 A. Lengthening it
 B. Inserting coils in series with radiating wires
-C. Shortening it
+C. {Shortening} it
 D. Adding capacitive loading to the ends of the radiating wires
 ~~
 
 T9A06 (D)
-Which of the following types of antenna offers the greatest gain?
+Which of the following types of {antenna} offers the {greatest gain}?
 A. 5/8 wave vertical 
 B. Isotropic
 C. J pole
-D. Yagi 
+D. {Yagi}
 ~~
 
 T9A07 (A)
-What is a disadvantage of using a handheld VHF transceiver with a flexible antenna inside a vehicle?
-A. Signal strength is reduced due to the shielding effect of the vehicle
+What is a {disadvantage} of using a {handheld} VHF transceiver with a flexible antenna {inside a vehicle}?
+A. Signal strength is reduced due to the {shielding effect of the vehicle}
 B. The bandwidth of the antenna will decrease, increasing SWR
 C. The SWR might decrease, decreasing the signal strength
 D. All these choices are correct
 ~~
 
 T9A08 (C)
-What is the approximate length, in inches, of a quarter-wavelength vertical antenna for 146 MHz?
+What is the approximate {length}, in inches, of a {quarter-wavelength} vertical antenna for {146 MHz}?
 A. 112
 B. 50
-C. 19
+C. {19}
 D. 12
 ~~
 
 T9A09 (C)
-What is the approximate length, in inches, of a half-wavelength 6 meter dipole antenna?
+What is the approximate {length}, in inches, of a {half-wavelength 6 meter} dipole antenna?
 A. 6
 B. 50
-C. 112
+C. {112}
 D. 236
 ~~
 
 T9A10 (D)
-In which direction does a half-wave dipole antenna radiate the strongest signal?
+In which {direction} does a half-wave {dipole} antenna radiate the {strongest signal}?
 A. Equally in all directions
 B. Off the ends of the antenna
 C. In the direction of the feed line
-D. Broadside to the antenna
+D. {Broadside to the antenna}
 ~~
 
 T9A11 (C)
-What is antenna gain?
+What is {antenna gain}?
 A. The additional power that is added to the transmitter power
 B. The additional power that is required in the antenna when transmitting on a higher frequency
-C. The increase in signal strength in a specified direction compared to a reference antenna
+C. The {increase in signal strength in a specified direction} compared to a reference antenna
 D. The increase in impedance on receive or transmit compared to a reference antenna
 ~~
 
 T9A12 (A)
-What is an advantage of a 5/8 wavelength whip antenna for VHF or UHF mobile service?
-A. It has more gain than a 1/4-wavelength antenna
+What is an {advantage of a 5/8 wavelength} whip {antenna} for VHF or UHF mobile service?
+A. It has {more gain than a 1/4-wavelength} antenna
 B. It radiates at a very high angle
 C. It eliminates distortion caused by reflected signals
 D. It has 10 times the power gain of a 1/4 wavelength whip
