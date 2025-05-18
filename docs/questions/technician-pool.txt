@@ -1165,9 +1165,9 @@ D. All these choices are correct
 ~~
 
 T4A04 (B)
-How are the transceiver audio input and output connected in a station configured to operate using FT8?
+How are the transceiver {audio input and output} connected in a station configured to operate using {FT8}?
 A. To a computer running a terminal program and connected to a terminal node controller unit
-B. To the audio input and output of a computer running WSJT-X software
+B. To the {audio input and output of a computer running WSJT-X software}
 C. To an FT8 conversion unit, a keyboard, and a computer monitor 
 D. To a computer connected to the FT8converter.com website
 ~~
@@ -2620,17 +2620,17 @@ D. All these choices are correct
 T8B - Amateur satellite operation: Doppler shift, basic orbits, operating protocols, modulation mode selection, transmitter power considerations, telemetry and telecommand, satellite tracking programs, beacons, uplink and downlink mode definitions, spin fading, definition of “LEO”, setting uplink power 
 
 T8B01 (C)
-What telemetry information is typically transmitted by satellite beacons?
+What {telemetry} information is typically transmitted by {satellite beacons}?
 A. The signal strength of received signals
 B. Time of day accurate to plus or minus 1/10 second
-C. Health and status of the satellite
+C. {Health and status} of the satellite
 D. All these choices are correct
 ~~
 
 T8B02 (B)
-What is the impact of using excessive effective radiated power on a satellite uplink?
+What is the impact of using {excessive} effective radiated {power on a satellite uplink}?
 A. Possibility of commanding the satellite to an improper mode
-B. Blocking access by other users
+B. {Blocking access} by other users
 C. Overloading the satellite batteries
 D. Possibility of rebooting the satellite control computer
 ~~
@@ -2652,66 +2652,66 @@ D. {All these} choices are correct
 ~~
 
 T8B05 (D)
-What is a satellite beacon?
+What is a {satellite beacon}?
 A. The primary transmit antenna on the satellite
 B. An indicator light that shows where to point your antenna
 C. A reflective surface on the satellite
-D. A transmission from a satellite that contains status information
+D. A transmission from a {satellite} that contains {status information}
 ~~
 
 T8B06 (B)
-Which of the following are inputs to a satellite tracking program?
+Which of the following are {inputs to a satellite tracking program}?
 A. The satellite transmitted power
-B. The Keplerian elements
+B. The {Keplerian elements}
 C. The last observed time of zero Doppler shift
 D. All these choices are correct
 ~~
 
 T8B07 (C)
-What is Doppler shift in reference to satellite communications?
+What is {Doppler shift} in reference to {satellite communications}?
 A. A change in the satellite orbit
 B. A mode where the satellite receives signals on one band and transmits on another
-C. An observed change in signal frequency caused by relative motion between the satellite and Earth station
+C. An observed {change in signal frequency} caused by relative {motion between the satellite and Earth station}
 D. A special digital communications mode for some satellites
 ~~
 
 T8B08 (B)
-What is meant by the statement that a satellite is operating in U/V mode?
+What is meant by the statement that a {satellite} is operating in {U/V mode}?
 A. The satellite uplink is in the 15 meter band and the downlink is in the 10 meter band
-B. The satellite uplink is in the 70 centimeter band and the downlink is in the 2 meter band
+B. The satellite {uplink is} in the {70 centimeter} band and the {downlink is} in the {2 meter} band
 C. The satellite operates using ultraviolet frequencies
 D. The satellite frequencies are usually variable
 ~~
 
 T8B09 (B)
-What causes spin fading of satellite signals?
+What causes {spin fading} of {satellite} signals?
 A. Circular polarized noise interference radiated from the sun 
-B. Rotation of the satellite and its antennas
+B. {Rotation} of the {satellite} and its {antennas}
 C. Doppler shift of the received signal
 D. Interfering signals within the satellite uplink band 
 ~~
 
 T8B10 (D)
-What is a LEO satellite?
+What is a {LEO} satellite?
 A. A sun synchronous satellite
 B. A highly elliptical orbit satellite
 C. A satellite in low energy operation mode
-D. A satellite in low earth orbit
+D. A satellite in {low earth orbit}
 ~~
 
 T8B11 (A)
-Who may receive telemetry from a space station?
-A. Anyone
+Who may {receive telemetry from a space station}?
+A. {Anyone}
 B. A licensed radio amateur with a transmitter equipped for interrogating the satellite
 C. A licensed radio amateur who has been certified by the protocol developer
 D. A licensed radio amateur who has registered for an access code from AMSAT
 ~~
 
 T8B12 (C)
-Which of the following is a way to determine whether your satellite uplink power is neither too low nor too high?
+Which of the following is a way to determine whether your {satellite uplink power is neither too low nor too high}?
 A. Check your signal strength report in the telemetry data
 B. Listen for distortion on your downlink signal
-C. Your signal strength on the downlink should be about the same as the beacon
+C. Your {signal strength on the downlink should be about the same as the beacon}
 D. All these choices are correct
 ~~
 
@@ -2719,88 +2719,88 @@ D. All these choices are correct
 T8C – Operating activities: radio direction finding, contests, linking over the internet, exchanging grid locators 
 
 T8C01 (C)
-Which of the following methods is used to locate sources of noise interference or jamming?
+Which of the following methods is used to {locate sources of noise interference or jamming}?
 A. Echolocation
 B. Doppler radar 
-C. Radio direction finding
+C. {Radio direction finding}
 D. Phase locking
 ~~
 
 T8C02 (B)
-Which of these items would be useful for a hidden transmitter hunt?
+Which of these items would be {useful for a hidden transmitter hunt}?
 A. Calibrated SWR meter
-B. A directional antenna
+B. A {directional antenna}
 C. A calibrated noise bridge
 D. All these choices are correct
 ~~
 
 T8C03 (D)
-What operating activity involves contacting as many stations as possible during a specified period?
+What operating activity involves {contacting as many stations as possible during a specified period}?
 A. Simulated emergency exercises
 B. Net operations
 C. Public service events
-D. Contesting
+D. {Contesting}
 ~~
 
 T8C04 (C)
-Which of the following is good procedure when contacting another station in a contest?
+Which of the following is good procedure when {contacting another station in a contest}?
 A. Sign only the last two letters of your call if there are many other stations calling
 B. Contact the station twice to be sure that you are in his log
-C. Send only the minimum information needed for proper identification and the contest exchange
+C. Send only the {minimum information needed} for proper identification and the contest exchange
 D. All these choices are correct
 ~~
 
 T8C05 (A)
-What is a grid locator?
-A. A letter-number designator assigned to a geographic location
+What is a {grid locator}?
+A. A {letter-number} designator assigned to a {geographic location}
 B. A letter-number designator assigned to an azimuth and elevation
 C. An instrument for neutralizing a final amplifier
 D. An instrument for radio direction finding
 ~~
 
 T8C06 (B)
-How is over the air access to IRLP nodes accomplished?
+How is over the air {access to IRLP} nodes accomplished?
 A. By obtaining a password that is sent via voice to the node
-B. By using DTMF signals
+B. By using {DTMF} signals
 C. By entering the proper internet password
 D. By using CTCSS tone codes
 ~~
 
 T8C07 (D)
-What is Voice Over Internet Protocol (VoIP)?
+What is Voice Over Internet Protocol ({VoIP})?
 A. A set of rules specifying how to identify your station when linked over the internet to another station
 B. A technique employed to “spot” DX stations via the internet
 C. A technique for measuring the modulation quality of a transmitter using remote sites monitored via the internet
-D. A method of delivering voice communications over the internet using digital techniques
+D. A method of delivering {voice} communications {over} the {internet} using digital techniques
 ~~
 
 T8C08 (A)
-What is the Internet Radio Linking Project (IRLP)?
-A. A technique to connect amateur radio systems, such as repeaters, via the internet using Voice Over Internet Protocol (VoIP)
+What is the Internet Radio Linking Project ({IRLP})?
+A. A technique to {connect amateur radio} systems, such as repeaters, via the internet {using Voice Over Internet Protocol (VoIP)}
 B. A system for providing access to websites via amateur radio
 C. A system for informing amateurs in real time of the frequency of active DX stations
 D. A technique for measuring signal strength of an amateur transmitter via the internet
 ~~
 
 T8C09 (D)
-Which of the following protocols enables an amateur station to transmit through a repeater without using a radio to initiate the transmission?
+Which of the following protocols enables an amateur station to transmit through a {repeater without using a radio} to initiate the transmission?
 A. IRLP
 B. D-STAR
 C. DMR
-D. EchoLink
+D. {EchoLink}
 ~~
 
 T8C10 (C)
-What is required before using the EchoLink system?
+What is required {before using the EchoLink} system?
 A. Complete the required EchoLink training
 B. Purchase a license to use the EchoLink software
-C. Register your call sign and provide proof of license 
+C. Register your {call sign and provide proof of license}
 D. All these choices are correct
 ~~
 
 T8C11 (A)
-What is an amateur radio station that connects other amateur stations to the internet?
-A. A gateway
+What is an amateur radio station that {connects other amateur stations to the internet}?
+A. A {gateway}
 B. A repeater
 C. A digipeater
 D. A beacon
@@ -3018,58 +3018,58 @@ D. It has 10 times the power gain of a 1/4 wavelength whip
 T9B – Feed lines: types, attenuation vs frequency, selecting; SWR concepts; Antenna tuners (couplers); RF Connectors: selecting, weather protection
 
 T9B01 (B)
-What is a benefit of low SWR?
+What is a {benefit of low SWR}?
 A. Reduced television interference 
-B. Reduced signal loss
+B. {Reduced signal loss}
 C. Less antenna wear
 D. All these choices are correct
 ~~
 
 T9B02 (B)
-What is the most common impedance of coaxial cables used in amateur radio?
+What is the most {common impedance of coaxial} cables used {in amateur radio}?
 A. 8 ohms
-B. 50 ohms
+B. {50 ohms}
 C. 600 ohms
 D. 12 ohms
 ~~
 
 T9B03 (A)
-Why is coaxial cable the most common feed line for amateur radio antenna systems?
-A. It is easy to use and requires few special installation considerations
+{Why is coaxial cable the most common} feed line for amateur radio antenna systems?
+A. It is {easy to use} and requires few special installation considerations
 B. It has less loss than any other type of feed line
 C. It can handle more power than any other type of feed line
 D. It is less expensive than any other type of feed line
 ~~
 
 T9B04 (A)
-What is the major function of an antenna tuner (antenna coupler)?
-A. It matches the antenna system impedance to the transceiver's output impedance
+What is the major function of an {antenna tuner} (antenna coupler)?
+A. It {matches the antenna system impedance} to the transceiver's output impedance
 B. It helps a receiver automatically tune in weak stations
 C. It allows an antenna to be used on both transmit and receive
 D. It automatically selects the proper antenna for the frequency band being used
 ~~
 
 T9B05 (D)
-What happens as the frequency of a signal in coaxial cable is increased?
+What happens {as the frequency of a signal in coaxial cable is increased}?
 A. The characteristic impedance decreases
 B. The loss decreases
 C. The characteristic impedance increases
-D. The loss increases
+D. {The loss increases}
 ~~
 
 T9B06 (B)
-Which of the following RF connector types is most suitable for frequencies above 400 MHz?
+Which of the following {RF connector} types is most suitable for frequencies {above 400 MHz}?
 A. UHF (PL-259/SO-239)
-B. Type N
+B. {Type N}
 C. RS-213
 D. DB-25 
 ~~
 
 T9B07 (C)
-Which of the following is true of PL-259 type coax connectors?
+Which of the following is {true of PL-259 type coax connectors}?
 A. They are preferred for microwave operation
 B. They are watertight
-C. They are commonly used at HF and VHF frequencies
+C. They are {commonly used at HF and VHF frequencies}
 D. They are a bayonet-type connector
 ~~
 
@@ -3090,10 +3090,10 @@ D. Overload from a strong local station
 ~~
 
 T9B10 (C)
-What is the electrical difference between RG-58 and RG-213 coaxial cable?
+What is the electrical {difference between RG-58 and RG-213} coaxial cable?
 A. There is no significant difference between the two types
 B. RG-58 cable has two shields
-C. RG-213 cable has less loss at a given frequency
+C. {RG-213 cable has less loss} at a given frequency
 D. RG-58 cable can handle higher power levels
 ~~
 
