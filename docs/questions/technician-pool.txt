@@ -2521,98 +2521,98 @@ SUBELEMENT T8 – SIGNALS AND EMISSIONS – [4 Exam Questions - 4 Groups]
 T8A – Basic characteristics of FM and SSB; Bandwidth of various modulation modes: CW, SSB, FM, fast-scan TV; Choice of emission type: selection of USB vs LSB, use of SSB for weak signal work, use of FM for VHF packet and repeaters 
 
 T8A01 (C)
-Which of the following is a form of amplitude modulation?
+Which of the following is a form of {amplitude modulation}?
 A. Spread spectrum
 B. Packet radio
-C. Single sideband
+C. {Single sideband}
 D. Phase shift keying (PSK)
 ~~
 
 T8A02 (A)
-What type of modulation is commonly used for VHF packet radio transmissions?
-A. FM or PM
+What type of {modulation} is commonly used for {VHF packet radio} transmissions?
+A. {FM or PM}
 B. SSB
 C. AM
 D. PSK
 ~~
 
 T8A03 (C)
-Which type of voice mode is often used for long-distance (weak signal) contacts on the VHF and UHF bands?
+Which type of {voice mode} is often used for {long-distance (weak signal) contacts} on the VHF and UHF bands?
 A. FM
 B. DRM
-C. SSB
+C. {SSB}
 D. PM
 ~~
 
 T8A04 (D)
-Which type of modulation is commonly used for VHF and UHF voice repeaters?
+Which type of {modulation} is commonly used for {VHF and UHF voice} repeaters?
 A. AM
 B. SSB
 C. PSK
-D. FM or PM
+D. {FM or PM}
 ~~
 
 T8A05 (C)
-Which of the following types of signal has the narrowest bandwidth?
+Which of the following types of signal has the {narrowest bandwidth}?
 A. FM voice
 B. SSB voice
-C. CW
+C. {CW}
 D. Slow-scan TV
 ~~
 
 T8A06 (A)
-Which sideband is normally used for 10 meter HF, VHF, and UHF single-sideband communications?
-A. Upper sideband
+Which {sideband} is normally used for {10 meter HF, VHF, and UHF} single-sideband communications?
+A. {Upper} sideband
 B. Lower sideband
 C. Suppressed sideband
 D. Inverted sideband
 ~~
 
 T8A07 (C)
-What is a characteristic of single sideband (SSB) compared to FM?
+What is a {characteristic of single sideband (SSB)} compared to FM?
 A. SSB signals are easier to tune in correctly
 B. SSB signals are less susceptible to interference
-C. SSB signals have narrower bandwidth
+C. SSB signals have {narrower bandwidth}
 D. All these choices are correct
 ~~ 
 
 T8A08 (B)
-What is the approximate bandwidth of a typical single sideband (SSB) voice signal?
+What is the approximate {bandwidth} of a typical {single sideband (SSB) voice} signal?
 A. 1 kHz
-B. 3 kHz
+B. {3 kHz}
 C. 6 kHz
 D. 15 kHz
 ~~
 
 T8A09 (C)
-What is the approximate bandwidth of a VHF repeater FM voice signal?
+What is the approximate {bandwidth} of a VHF repeater {FM voice} signal?
 A. Less than 500 Hz 
 B. About 150 kHz
-C. Between 10 and 15 kHz
+C. {Between 10 and 15 kHz}
 D. Between 50 and 125 kHz
 ~~
 
 T8A10 (B)
-What is the approximate bandwidth of AM fast-scan TV transmissions?
+What is the approximate {bandwidth of AM fast-scan TV} transmissions?
 A. More than 10 MHz
-B. About 6 MHz
+B. {About 6 MHz}
 C. About 3 MHz
 D. About 1 MHz
 ~~
 
 T8A11 (B)
-What is the approximate bandwidth required to transmit a CW signal?
+What is the approximate {bandwidth} required to transmit a {CW} signal?
 A. 2.4 kHz
-B. 150 Hz
+B. {150 Hz}
 C. 1000 Hz
 D. 15 kHz
 ~~
 
 T8A12 (B)
-Which of the following is a disadvantage of FM compared with single sideband?
+Which of the following is a {disadvantage of FM compared with single sideband}?
 A. Voice quality is poorer
 B. Only one signal can be received at a time
-C. FM signals are harder to tune
+C. FM signals are {harder to tune}
 D. All these choices are correct
 ~~
 
