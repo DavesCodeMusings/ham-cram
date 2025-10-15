@@ -9,7 +9,7 @@ Find working demos here on GitHub Pages:
 * https://davescodemusings.github.io/ham-cram/?general-pool
 * https://davescodemusings.github.io/ham-cram/?extra-pool
 
-> To run without an internet connection, [see instructions below](https://github.com/DavesCodeMusings/ham-cram/#running-stand-alone-without-internet).
+> To run stand-alone, without an internet connection, [see instructions below](https://github.com/DavesCodeMusings/ham-cram/#running-stand-alone-without-internet).
 
 ## Brief Instructions for User Interface
 * To answer, click the selection (or press the letter on your keyboard.)
