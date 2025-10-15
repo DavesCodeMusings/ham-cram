@@ -1,4 +1,4 @@
-# ham-cram
+# Ham Cram
 Ham radio exam study app that pairs question pools with text to speech and keyword highlighting.
 
 **Note: Highlighting of question pools is only completed for the Technician pool at this time.**
